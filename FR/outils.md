@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
-[Accueil](index) | [Projet](projet) | [Publications](publications) | [Partenaires](partenaires) | [Nous contacter](contact) | Outils | [<img src="../img/drapeau EN.png" width="20">](https://motsmachines.github.io/joker/EN/tools)
+[Accueil](index) | [Projet](projet) | [Publications](publications) | [Partenaires](partenaires) | [Nous contacter](contact) | Outils | [<img src="../img/drapeau EN.png" width="20">](http://www.joker-project.com/clef-2022/EN/tools)
 <br>
 
 <br> [PunCAT](https://github.com/OFAI/PunCAT) : PunCAT est un prototype d'outil interactif pour la traduction de jeux de mots assistée par ordinateur . Bien qu'il puisse être  assez facilement adapté pour fonctionner avec n'importe quelle paire de langues pour laquelle des wordnets sont disponibles, il ne prend actuellement en charge que la traduction de l'anglais vers l'allemand.
