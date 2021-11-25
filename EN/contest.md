@@ -31,28 +31,3 @@
 * Sílvia Araújo (University of Minho, Portugal)
 * Fabio Regattin (Università degli Studi di Udine, Italy)
 * Claudine Borg (University of Malta)
-## Concours
-
-### Dates et modalités du concours
-
-* Participation : de décembre à février.
-* Plus d'informations à venir.
-
-### Inscription au concours
-
-[lien]
-
-### Organisateur·rice·s du concours :
-
-* Liana Ermakova (UBO)
-* Benoît Jeanjean (UBO)
-* Gaëlle Le Corre (UBO)
-* Élise Mathurin (UBO)
-* Caroline Comacle (UBO)
-* Mohamed Saki (UBO)
-* Helen McCombie (UBO)
-* Radia Hannachi (UBS)
-* Anne-Gwenn Bosser (ENIB)
-* Sílvia Araújo (University of Minho, Portugal)
-* Fabio Regattin (Università degli Studi di Udine, Italy)
-* Claudine Borg (University of Malta)
