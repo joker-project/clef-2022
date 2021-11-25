@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
-Accueil | [Projet](projet) | [Publications](publications) | [Partenaires](partenaires) | [Contest](contest) | [Nous contacter](contact) | [Outils](outils) | [<img src="../img/drapeau EN.png" width="20">](http://www.joker-project.com/clef-2022/EN/index)
+Accueil | [Projet](projet) | [Publications](publications) | [Partenaires](partenaires) | [Concours](contest) | [Nous contacter](contact) | [Outils](outils) | [<img src="../img/drapeau EN.png" width="20">](http://www.joker-project.com/clef-2022/EN/index)
 <br>
 
 <h2 align="center">Interculturalité et localisation de l'humour et des jeux de mots</h2>
