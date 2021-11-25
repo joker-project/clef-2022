@@ -15,7 +15,7 @@
 
 ### Registration to the contest
 
-[lien]
+[link]
 
 ### Contest organizers
 
