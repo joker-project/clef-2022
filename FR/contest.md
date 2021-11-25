@@ -17,7 +17,7 @@
 
 [lien]
 
-### Organisateur·rice·s du concours :
+### Organisateur·rice·s du concours
 
 * Liana Ermakova (UBO)
 * Benoît Jeanjean (UBO)
