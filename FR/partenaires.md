@@ -26,7 +26,7 @@
 <br>*Participante*
 
 * **Élise Mathurin (UBO)**
-<br>MCF en linguistique anglaise, responsable du M1 master Rédacteur/Traducteur
+<br>MCF en linguistique anglaise, directrice du master Rédacteur/Traducteur
 <br>HCTI EA-4249, UFR ALL SHS, Département d’Anglais
 <br>[Lien vers le profil](https://www.univ-brest.fr/hcti/menu/Membres/Enseignants-chercheurs/Mathurin--Elise)
 <br>*Participante*
