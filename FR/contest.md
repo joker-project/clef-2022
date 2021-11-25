@@ -7,3 +7,18 @@
 <br>
 
 ## Concours
+
+### Organisateur·rice·s du concours :
+
+* Liana Ermakova (UBO)
+* Benoît Jeanjean (UBO)
+* Gaëlle Le Corre (UBO)
+* Élise Mathurin (UBO)
+* Caroline Comacle (UBO)
+* Mohamed Saki (UBO)
+* Helen McCombie (UBO)
+* Radia Hannachi (UBS)
+* Anne-Gwenn Bosser (ENIB)
+* Sílvia Araújo (University of Minho, Portugal)
+* Fabio Regattin (Università degli Studi di Udine, Italy)
+* Claudine Borg (University of Malta)
