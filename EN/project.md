@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
   </p>
 
-[Home](index) | Project | [Publications](publications) | [Partners](partners) | [Contact Us](contact) | [Tools](tools) | [<img src="../img/drapeau FR.png" width="20">](https://motsmachines.github.io/joker/FR/projet)
+[Home](index) | Project | [Publications](publications) | [Partners](partners) | [Contact Us](contact) | [Tools](tools) | [<img src="../img/drapeau FR.png" width="20">](http://www.joker-project.com/clef-2022/FR/projet)
 <br>
   <h1 align="center"><a href="https://motsmachines.github.io/joker/EN">CLEF Workshop JOKER</a>:</h1>
   <h2 align="center">Automatic Pun and Humour Translation</h2>
