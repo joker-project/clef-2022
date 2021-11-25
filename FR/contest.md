@@ -8,6 +8,12 @@
 
 ## Concours
 
+### Dates du concours : décembre-février
+
+### Inscription au concours
+
+[lien]
+
 ### Organisateur·rice·s du concours :
 
 * Liana Ermakova (UBO)
