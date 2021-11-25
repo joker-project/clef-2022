@@ -8,7 +8,10 @@
 
 ## Concours
 
-### Dates du concours : décembre-février
+### Dates et modalités du concours
+
+* Participation : de décembre à février.
+* Plus d'informations à venir.
 
 ### Inscription au concours
 
