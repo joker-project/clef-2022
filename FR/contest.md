@@ -1,33 +1,5 @@
-# JokeR
-<p align="center">
-  <img src="../img/Joker.png" width="120" height="142">
-</p>
-  
-[Accueil](index) | [Projet](projet) | [Publications](publications) | [Partenaires](partenaires) | Concours | [Nous contacter](contact) | [Outils](outils) | [<img src="../img/drapeau EN.png" width="20">](http://www.joker-project.com/clef-2022/EN/contest)
-<br>
-
-## Concours
-
-### Dates et modalités du concours
-
-* Participation : de décembre à février.
-* Plus d'informations à venir.
-
-### Inscription au concours
-
-[lien]
-
-### Organisateur·rice·s du concours
-
-* Liana Ermakova (UBO)
-* Benoît Jeanjean (UBO)
-* Gaëlle Le Corre (UBO)
-* Élise Mathurin (UBO)
-* Caroline Comacle (UBO)
-* Mohamed Saki (UBO)
-* Helen McCombie (UBO)
-* Radia Hannachi (UBS)
-* Anne-Gwenn Bosser (ENIB)
-* Sílvia Araújo (University of Minho, Portugal)
-* Fabio Regattin (Università degli Studi di Udine, Italy)
-* Claudine Borg (University of Malta)
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Redirecting to https://joker-project.github.io/pun-translation-contest</title>
+<meta http-equiv="refresh" content="0;  https://joker-project.github.io/pun-translation-contest">
+<link rel="canonical" href=" https://joker-project.github.io/pun-translation-contest">
