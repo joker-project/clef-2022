@@ -8,6 +8,8 @@
   <h1 align="center"><a href="https://motsmachines.github.io/joker/EN">CLEF Workshop JOKER</a>:</h1>
   <h2 align="center">Automatic Pun and Humour Translation</h2>
 
+[1-st Call for Participation](../1st Call JOKER 2022.pdf)
+
   <h3>Topics & Goals</h3>
   
   The goal is to unify the scientific community interested in automatic localization of humor and puns.  The JokeR project addresses the issue of European identity through the study of humor in a cross-cultural perspective. The main objective of the JokeR project is to study the strategies of localization of humor and puns and to create a multilingual parallel corpus, annotated according to these strategies, open and freely available, as well as evaluation metrics.
