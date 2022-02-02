@@ -8,8 +8,6 @@
   <h1 align="center">CLEF Workshop JOKER:</h1>
   <h2 align="center">Automatic Pun and Humour Translation</h2>
 
-[1-st Call for Participation (pdf)](../1st Call JOKER 2022.pdf)
-
 ## 1st Call for Participation 
 
 ### Context
@@ -34,10 +32,10 @@ Sign up at the CLEF website (https://clef2022-labs-registration.dei.unipd.it/). 
 * CLEF conference: 5–8 September 2022
 
 
-<p>
-  <a href="./JOKER_CLEF_2021.pdf"><h3>JOKER@CLEF presentation (pdf)</h3></a>
-</p>
 
+[JOKER@CLEF presentation (pdf)](./JOKER_CLEF_2021.pdf)
+
+[1-st Call for Participation (pdf)](../1st Call JOKER 2022.pdf)
 
   
 <p>
