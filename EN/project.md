@@ -8,21 +8,19 @@
   <h1 align="center"><a href="https://motsmachines.github.io/joker/EN">CLEF Workshop JOKER</a>:</h1>
   <h2 align="center">Automatic Pun and Humour Translation</h2>
 
-[1-st Call for Participation](../1st Call JOKER 2022.pdf)
+[1-st Call for Participation (pdf)](../1st Call JOKER 2022.pdf)
 
- 1st Call for Participation – JOKER Track @ CLEF 2022: 
-Automatic Wordplay and Humour Translation
-http://joker-project.com/
+## 1st Call for Participation 
 
-Context
+### Context
 Humour remains one of the most difficult aspects of intercultural communication: understanding humour often requires understanding implicit cultural references and/or double meanings, and this raises the question of its (un)translatability. Wordplay is a common source of humour due to its attention-getting and subversive character. The translation of humour and wordplay is therefore in high demand. Modern translation depends heavily on technological aids, yet few works have treated the automation of humour and wordplay translation, or the creation of humour corpora. The goal of the JOKER workshop is to bring together translators and computer scientists to work on an evaluation framework for wordplay, including data and metric development, and to foster work on automatic methods for wordplay translation.
-Tasks
+### Tasks
 We invite you to submit both automatic and manual runs! Manual intervention should be reported.
-Task 1: Сlassify and explain instances of wordplay.
-Task 2: Translate single words containing wordplay.
-Task 3: Translate entire phrases containing wordplay.
-Unshared task: We welcome any other type of submission that uses our data as an open task.
-How to participate
+* Task 1: Сlassify and explain instances of wordplay.
+* Task 2: Translate single words containing wordplay.
+* Task 3: Translate entire phrases containing wordplay.
+* Unshared task: We welcome any other type of submission that uses our data as an open task.
+### How to participate
 Sign up at the CLEF website (https://clef2022-labs-registration.dei.unipd.it/). All team members should join the JOKER mailing list (https://groups.google.com/u/4/g/joker-project). The data will be made available to all registered participants.
 
 ### Deadlines
@@ -36,7 +34,7 @@ Sign up at the CLEF website (https://clef2022-labs-registration.dei.unipd.it/). 
 
 
 <p>
-  <a href="./JOKER_CLEF_2021.pdf"><h3>CLEF evaluation campaign (pdf)</h3></a>
+  <a href="./JOKER_CLEF_2021.pdf"><h3>JOKER@CLEF presentation (pdf)</h3></a>
 </p>
 
 <h3 id="note1">References:</h3>
