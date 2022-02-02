@@ -3,9 +3,9 @@
   <img src="../img/Joker.png" width="120" height="142">
   </p>
 
-[Home](index) | Project | [Publications](publications) | [Partners](partners) | [Contest](contest) | [Contact Us](contact) | [Tools](tools) | [<img src="../img/drapeau FR.png" width="20">](http://www.joker-project.com/clef-2022/FR/projet)
+[Home](index) | CLEF | [Publications](publications) | [Partners](partners) | [Contest](contest) | [Contact Us](contact) | [Tools](tools) | [<img src="../img/drapeau FR.png" width="20">](http://www.joker-project.com/clef-2022/FR/projet)
 <br>
-  <h1 align="center">CLEF Workshop JOKER:</h1>
+  <h1 align="center">CLEF Workshop:</h1>
   <h2 align="center">Automatic Pun and Humour Translation</h2>
 
 ## 1st Call for Participation 
