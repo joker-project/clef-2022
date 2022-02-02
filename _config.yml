@@ -1,1 +1,4 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-leap-day
+title: null
+github:
+  is_project_page: false
