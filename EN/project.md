@@ -5,7 +5,7 @@
 
 [Home](index) | Project | [Publications](publications) | [Partners](partners) | [Contest](contest) | [Contact Us](contact) | [Tools](tools) | [<img src="../img/drapeau FR.png" width="20">](http://www.joker-project.com/clef-2022/FR/projet)
 <br>
-  <h1 align="center"><a href="https://motsmachines.github.io/joker/EN">CLEF Workshop JOKER</a>:</h1>
+  <h1 align="center">CLEF Workshop JOKER:</h1>
   <h2 align="center">Automatic Pun and Humour Translation</h2>
 
 [1-st Call for Participation (pdf)](../1st Call JOKER 2022.pdf)
@@ -20,6 +20,7 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 * Task 2: Translate single words containing wordplay.
 * Task 3: Translate entire phrases containing wordplay.
 * Unshared task: We welcome any other type of submission that uses our data as an open task.
+
 ### How to participate
 Sign up at the CLEF website (https://clef2022-labs-registration.dei.unipd.it/). All team members should join the JOKER mailing list (https://groups.google.com/u/4/g/joker-project). The data will be made available to all registered participants.
 
