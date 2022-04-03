@@ -3,12 +3,12 @@
   <img src="../img/Joker.png" width="120" height="142">
   </p>
 
-[Home](index) | CLEF | [Publications](publications) | [Partners](partners) | [Contest](contest) | [Contact Us](contact) | [Tools](tools) | [<img src="../img/drapeau FR.png" width="20">](http://www.joker-project.com/clef-2022/FR/projet)
+[Home](index) | CLEF | [Publications](publications) | [Partners](partners) | [Contest](contest) | [Contact Us](contact) | [Tools](tools)
 <br>
   <h1 align="center">CLEF Workshop:</h1>
   <h2 align="center">Automatic Pun and Humour Translation</h2>
 
-## 1st Call for Participation 
+## Call for Participation 
 
 ### Context
 Humour remains one of the most difficult aspects of intercultural communication: understanding humour often requires understanding implicit cultural references and/or double meanings, and this raises the question of its (un)translatability. Wordplay is a common source of humour due to its attention-getting and subversive character. The translation of humour and wordplay is therefore in high demand. Modern translation depends heavily on technological aids, yet few works have treated the automation of humour and wordplay translation, or the creation of humour corpora. The goal of the JOKER workshop is to bring together translators and computer scientists to work on an evaluation framework for wordplay, including data and metric development, and to foster work on automatic methods for wordplay translation.
@@ -19,17 +19,36 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 * Task 3: Translate entire phrases containing wordplay.
 * Unshared task: We welcome any other type of submission that uses our data as an open task.
 
-### How to participate
-Sign up at the CLEF website (https://clef2022-labs-registration.dei.unipd.it/). All team members should join the JOKER mailing list (https://groups.google.com/u/4/g/joker-project). The data will be made available to all registered participants.
-
 ### Deadlines
-* Data release: February 2022
-* Final guidelines: March 2022
 * Run submission: 22 April 2022 
 * Results available: 6 May 2022
 * Draft paper submission: 27 May 2022
 * Camera-ready submission: 1 July 2022
 * CLEF conference: 5–8 September 2022
+
+## Access
+Sign up at the CLEF website (https://clef2022-labs-registration.dei.unipd.it/). All team members should join the JOKER mailing list (https://groups.google.com/u/4/g/joker-project). After registration, you will receive an email with information on how to get access to the data.
+
+### Result submission:
+Participants should put their run results into the folder Documents created for their user and **submit them by email** to *contact@joker-project.com*.
+
+The email subject has to be in the format **\[CLEF TASK \<NUMBER\>\] TEAM_ID**. 
+
+Runs should be submitted as a <ins>ZIP folder of the corresponding JSON files</ins>. Manual runs are allowed to be submitted in a CSV format. 
+
+A confirmation email will be sent within 2 days after the submission deadline. 
+
+### Terms of Use
+
+By downloading and using JOKER data, you agree to the terms of use. Any use of the data for any purpose other than academic research, would be in violation of the intended use of these data. 
+
+Therefore, by downloading and using these data you give the following assurances with respect to the JOKER data:
+1. You will not use nor permit others to use the data in the JOKER datasets in any way except for classes and academic research.
+2. You will not at any time disclose, give, or transmit (in any manner or form or for any purpose) the data (or any portion thereof) to any location or person, including but not limiting to making the data available on the Internet, and copying the data onto any cloud-based storage system.
+3. You will not release nor permit others to release the dataset or any part of it to any person. 
+
+In case of violation of the conditions for access to the data for scientific purposes, this access may be withdrawn from the research entity and/or from the researcher. The research entity may also be liable to pay compensation for damages for third parties or asked to take disciplinary action against the offending researcher. 
+
 
 
 
