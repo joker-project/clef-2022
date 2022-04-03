@@ -29,6 +29,8 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 ## Access
 Sign up at the CLEF website (https://clef2022-labs-registration.dei.unipd.it/). All team members should join the JOKER mailing list (https://groups.google.com/u/4/g/joker-project). After registration, you will receive an email with information on how to get access to the data.
 
+The data is split into 3 folders corresponding to the shared tasks. Each task folder is further split in train data and test data. 
+
 ### Result submission:
 Participants should put their run results into the folder Documents created for their user and **submit them by email** to *contact@joker-project.com*.
 
@@ -88,21 +90,11 @@ List of wordplay instances to be classified in a **JSON format** or a CSV file (
 
 *Output example*:
 
-```[{"RUN_ID":"RT","MANUAL":1,"ID":"noun_1063","WORDPLAY":"Elimentaler","TARGET_WORD":"Elimentaler","DISAMBIGUATION":"Emmental (cheese) + Eliminator","HORIZONTAL\/VERTICAL":"vertical","MANIPULATION_TYPE":"Similarity","MANIPULATION_LEVEL":"Sound","CULTURAL_REFERENCE":false,"CONVENTIONAL_FORM":false,"OFFENSIVE":null},{"RUN_ID":"RT","MANUAL":1,"ID":"pun_341","WORDPLAY":"Geologists can be sedimental about their work.","TARGET_WORD":"sedimental","DISAMBIGUATION":"sentimental\/sediment","HORIZONTAL\/VERTICAL":"vertical","MANIPULATION_TYPE":"Similarity","MANIPULATION_LEVEL":"Sound","CULTURAL_REFERENCE":false,"CONVENTIONAL_FORM":false,"OFFENSIVE":null}]
 ```
-
-**Disclaimer:** By downloading and using these data, you agree to the terms of use. Any use of the data for any purpose other than academic research, would be in violation of the intended use of these data. 
-
-Therefore, by downloading and using these data you give the following assurances with respect to the SimpleText data:
-1. You will not use nor permit others to use the data in the SimpleText datasets in any way except for classes and academic research.
-2. You will not at any time disclose, give, or transmit (in any manner or form or for any purpose) the data (or any portion thereof) to any location or person, including but not limiting to making the data available on the Internet, and copying the data onto any cloud-based storage system.
-3. You will not release nor permit others to release the dataset or any part of it to any person. 
-
-In case of violation of the conditions for access to the data for scientific purposes, this access may be withdrawn from the research entity and/or from the researcher. The research entity may also be liable to pay compensation for damages for third parties or asked to take disciplinary action against the offending researcher. 
-
-
+[{"RUN_ID":"RT","MANUAL":1,"ID":"noun_1063","WORDPLAY":"Elimentaler","TARGET_WORD":"Elimentaler","DISAMBIGUATION":"Emmental (cheese) + Eliminator","HORIZONTAL\/VERTICAL":"vertical","MANIPULATION_TYPE":"Similarity","MANIPULATION_LEVEL":"Sound","CULTURAL_REFERENCE":false,"CONVENTIONAL_FORM":false,"OFFENSIVE":null},{"RUN_ID":"RT","MANUAL":1,"ID":"pun_341","WORDPLAY":"Geologists can be sedimental about their work.","TARGET_WORD":"sedimental","DISAMBIGUATION":"sentimental\/sediment","HORIZONTAL\/VERTICAL":"vertical","MANIPULATION_TYPE":"Similarity","MANIPULATION_LEVEL":"Sound","CULTURAL_REFERENCE":false,"CONVENTIONAL_FORM":false,"OFFENSIVE":null}]
+```
 #### Evaluation
-Term pooling and automatic metrics (accuracy of term binary classification, NDCG for term ranking, kappa statistics...) will be used to evaluate these results.
+Pilot Task 1 includes both classification and interpretation components. Classification performance will be evaluated with respect to accuracy, while interpretation performance will be evaluated semi-manually.
 
 #### Result submission:
 Participants should put their run results into the folder Documents created for their user and **submit them by email** to *contact@joker-project.com*.
