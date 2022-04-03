@@ -31,6 +31,8 @@ Sign up at the CLEF website (https://clef2022-labs-registration.dei.unipd.it/). 
 
 The data is split into 3 folders corresponding to the shared tasks. Each task folder is further split in train data and test data. 
 
+Meta-data will be available as the participants' results will be published.
+
 ### Result submission:
 Participants should put their run results into the folder Documents created for their user and **submit them by email** to *contact@joker-project.com*.
 
