@@ -95,15 +95,101 @@ List of wordplay instances to be classified in a **JSON format** or a CSV file (
 ```
 [{"RUN_ID":"RT","MANUAL":1,"ID":"noun_1063","WORDPLAY":"Elimentaler","TARGET_WORD":"Elimentaler","DISAMBIGUATION":"Emmental (cheese) + Eliminator","HORIZONTAL\/VERTICAL":"vertical","MANIPULATION_TYPE":"Similarity","MANIPULATION_LEVEL":"Sound","CULTURAL_REFERENCE":false,"CONVENTIONAL_FORM":false,"OFFENSIVE":null},{"RUN_ID":"RT","MANUAL":1,"ID":"pun_341","WORDPLAY":"Geologists can be sedimental about their work.","TARGET_WORD":"sedimental","DISAMBIGUATION":"sentimental\/sediment","HORIZONTAL\/VERTICAL":"vertical","MANIPULATION_TYPE":"Similarity","MANIPULATION_LEVEL":"Sound","CULTURAL_REFERENCE":false,"CONVENTIONAL_FORM":false,"OFFENSIVE":null}]
 ```
-#### Evaluation
-Pilot Task 1 includes both classification and interpretation components. Classification performance will be evaluated with respect to accuracy, while interpretation performance will be evaluated semi-manually.
 
-#### Result submission:
-Participants should put their run results into the folder Documents created for their user and **submit them by email** to *contact@joker-project.com*.
+**Evaluation.** Pilot Task 1 includes both classification and interpretation components. Classification performance will be evaluated with respect to accuracy, while interpretation performance will be evaluated semi-manually.
 
-The email subject has to be in the format **\[CLEF TASK 1] TEAM_ID**. 
+**Result submission.** Participants should put their run results into the folder Documents created for their user and **submit them by email** to *contact@joker-project.com*. The email subject has to be in the format **\[CLEF TASK 1] TEAM_ID**. 
 
-### Terms of Use
+## Task 2: Translate single words containing wordplay.
+
+**Train data format:**
+List of translated wordplay instances in a **JSON format** or a CSV file (for manual runs) with the following fields:
+* `id`: a unique wordplay identifier 
+* `en`: wordplay text in English (source)
+* `fr`: wordplay text in French (target) 
+
+*Example:*
+
+```
+[{"id":"noun_1","en":"Ambipom","fr":"Capidextre"}]
+```
+
+**Test data input format:** 
+List of wordplay instances to translate in a **JSON format** or a CSV file (for manual runs) with the following fields:
+* `id`: a unique wordplay identifier 
+* `en`: wordplay text in English (source)
+
+*Input example:*
+
+```
+[{"id":"noun_1185","en":"Fungun"}]
+```
+
+**Test data output format:** 
+
+List of wordplay instances to be classified in a **JSON format** or a CSV file (for manual runs) with the following fields:
+* `RUN_ID`: Run ID starting with **team_id_** (as registered at the CLEF website)
+* `MANUAL`: Whether the run is manual {0,1}
+* `id`: a unique wordplay identifier 
+* `en`: wordplay text in English (source)
+* `fr`: wordplay text in French (target) 
+
+*Output example*:
+
+```
+[{"RUN_ID":"OFFICIAL","MANUAL":1,"id":"noun_1","en":"Ambipom","fr":"Capidextre"}]
+```
+
+**Evaluation.** Human evaluators will manually annotate the submitted translations according to both subjective measures and according to more concrete features such as whether wordplay exists in the target text, whether it corresponds to the type used in the source text, whether the target text preserves the semantic field, etc.
+
+**Result submission.** Participants should put their run results into the folder Documents created for their user and **submit them by email** to *contact@joker-project.com*. The email subject has to be in the format **\[CLEF TASK 2] TEAM_ID**. 
+
+
+## Task 3: Translate entire phrases containing wordplay.
+
+**Train data format:**
+List of translated wordplay instances in a **JSON format** or a CSV file (for manual runs) with the following fields:
+* `id`: a unique wordplay identifier 
+* `en`: wordplay text in English (source)
+* `fr`: wordplay text in French (target) 
+
+*Example:*
+
+```
+[{"id":"pun_724_1","en":"My name is Wade and I'm in swimming pool maintenance.","fr":" Je m\u2019appelle Jacques Ouzy, je m\u2019occupe de l\u2019entretien des piscines."}]
+```
+
+**Test data input format:** 
+List of wordplay instances to translate in a **JSON format** or a CSV file (for manual runs) with the following fields:
+* `id`: a unique wordplay identifier 
+* `en`: wordplay text in English (source)
+
+*Input example:*
+
+```
+[{"id":"het_713","en":"Ever since my mineral extraction facility was converted to parking, I've had a lot on my mine."}]
+```
+
+**Test data output format:** 
+
+List of wordplay instances to be classified in a **JSON format** or a CSV file (for manual runs) with the following fields:
+* `RUN_ID`: Run ID starting with **team_id_** (as registered at the CLEF website)
+* `MANUAL`: Whether the run is manual {0,1}
+* `id`: a unique wordplay identifier 
+* `en`: wordplay text in English (source)
+* `fr`: wordplay text in French (target) 
+
+*Output example*:
+
+```
+[{"RUN_ID":"JCM","MANUAL":1,"id":"pun_724_1","en":"My name is Wade and I'm in swimming pool maintenance.","fr":" Je m\u2019appelle Jacques Ouzy, je m\u2019occupe de l\u2019entretien des piscines."}]
+```
+
+**Evaluation.** Human evaluators will manually annotate the submitted translations according to both subjective measures and according to more concrete features such as whether wordplay exists in the target text, whether it corresponds to the type used in the source text, whether the target text preserves the semantic field, etc.
+
+**Result submission.** Participants should put their run results into the folder Documents created for their user and **submit them by email** to *contact@joker-project.com*. The email subject has to be in the format **\[CLEF TASK 3] TEAM_ID**. 
+
+## Terms of Use
 
 By downloading and using JOKER data, you agree to the terms of use. Any use of the data for any purpose other than academic research, would be in violation of the intended use of these data. 
 
