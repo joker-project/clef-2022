@@ -17,6 +17,21 @@ Intercultural communication relies heavily on translation. Humor remains by far 
 <br />
 <a href="./JOKER Brest IA.pdf" target="_blank">Link to an abstract of the JokeR project</a>
 
+## How to Cite
+If you extend or use this work, please cite the [paper](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_45) where it was introduced:
+```
+Ermakova, L., Miller, T., Puchalski, O., Regattin, F., Mathurin, É., Araújo, S., 
+Bosser, A.-G., Borg, C., Bokiniec, M., Corre, G. L., Jeanjean, B., Hannachi, R., 
+Mallia, Ġ., Matas, G., & Saki, M. (2022). 
+CLEF Workshop JOKER: Automatic Wordplay and Humour Translation. 
+In M. Hagen, S. Verberne, C. Macdonald, C. Seifert, K. Balog, K. Nørvåg, & V. Setty (Eds.), 
+Advances in Information Retrieval (Vol. 13186, pp. 355–363). Springer International Publishing. 
+https://doi.org/10.1007/978-3-030-99739-7_45
+```
+[Paper](https://doi.org/10.1007/978-3-030-99739-7_45)
+
+[Dowload .BIB](./BibTex/joker_ecir_2022.bib)
+
 <p>
 <em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001</em>
 </p>
