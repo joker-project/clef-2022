@@ -18,6 +18,21 @@ La communication interculturelle repose en grande partie sur la traduction. L'hu
 <a href="./JOKER Brest IA.pdf" target="_blank">Lien vers un résumé du projet JokeR</a>
 
 
+## Référence
+
+```
+Ermakova, L., Miller, T., Puchalski, O., Regattin, F., Mathurin, É., Araújo, S., 
+Bosser, A.-G., Borg, C., Bokiniec, M., Corre, G. L., Jeanjean, B., Hannachi, R., 
+Mallia, Ġ., Matas, G., & Saki, M. (2022). 
+CLEF Workshop JOKER: Automatic Wordplay and Humour Translation. 
+In M. Hagen, S. Verberne, C. Macdonald, C. Seifert, K. Balog, K. Nørvåg, & V. Setty (Eds.), 
+Advances in Information Retrieval (Vol. 13186, pp. 355–363). Springer International Publishing. 
+https://doi.org/10.1007/978-3-030-99739-7_45
+```
+[Publication](https://doi.org/10.1007/978-3-030-99739-7_45)
+
+[Télécharger .BIB](./BibTex/joker_ecir_2022.bib)
+
 <p>
 <em>Ce projet a bénéficié d'une aide de l'état gérée par l'Agence Nationale de la Recherche au titre du programme « Investissements d'avenir » portant la Référence ANR-19-GURE-0001</em>
 </p>
