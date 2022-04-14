@@ -200,8 +200,20 @@ Therefore, by downloading and using these data you give the following assurances
 
 In case of violation of the conditions for access to the data for scientific purposes, this access may be withdrawn from the research entity and/or from the researcher. The research entity may also be liable to pay compensation for damages for third parties or asked to take disciplinary action against the offending researcher. 
 
+## How to Cite
+If you extend or use this work, please cite the [paper](https://link.springer.com/chapter/10.1007/978-3-030-99739-7_45) where it was introduced:
+```
+Ermakova, L., Miller, T., Puchalski, O., Regattin, F., Mathurin, É., Araújo, S., 
+Bosser, A.-G., Borg, C., Bokiniec, M., Corre, G. L., Jeanjean, B., Hannachi, R., 
+Mallia, Ġ., Matas, G., & Saki, M. (2022). 
+CLEF Workshop JOKER: Automatic Wordplay and Humour Translation. 
+In M. Hagen, S. Verberne, C. Macdonald, C. Seifert, K. Balog, K. Nørvåg, & V. Setty (Eds.), 
+Advances in Information Retrieval (Vol. 13186, pp. 355–363). Springer International Publishing. 
+https://doi.org/10.1007/978-3-030-99739-7_45
+```
+[Paper](https://doi.org/10.1007/978-3-030-99739-7_45)
 
-
+[Dowload .BIB](./BibTex/joker_ecir_2022.bib)
 
 [JOKER@CLEF presentation (pdf)](./JOKER_CLEF_2021.pdf)
 
