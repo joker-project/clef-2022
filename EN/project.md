@@ -90,6 +90,10 @@ List of wordplay instances to be classified in a **JSON format** or a CSV file (
 * `CONVENTIONAL_FORM`: this is a binary (**True/False**) category, e.g. *Tom Swifty* (wellerism), *Monsieur et Madame… ont un fils* 
 * `OFFENSIVE` (not evaluated category): some wordplay instances are marked as offensive. 
 
+*Output format checker*
+You can use this python3 script to check the output format. The script requires Python 3 and the Pandas library:
+[Download python output checker](../check_format.py)
+
 *Output example*:
 
 ```
@@ -134,6 +138,10 @@ List of wordplay instances to be translated in a **JSON format** or a CSV file (
 * `en`: wordplay text in English (source)
 * `fr`: wordplay text in French (target) 
 
+*Output format checker*
+You can use this python3 script to check the output format. The script requires Python 3 and the Pandas library:
+[Download python output checker](../check_format.py)
+
 *Output example*:
 
 ```
@@ -152,6 +160,10 @@ List of translated wordplay instances in a **JSON format** or a CSV file (for ma
 * `id`: a unique wordplay identifier 
 * `en`: wordplay text in English (source)
 * `fr`: wordplay text in French (target) 
+
+*Output format checker*
+You can use this python3 script to check the output format. The script requires Python 3 and the Pandas library:
+[Download python output checker](../check_format.py)
 
 *Example:*
 
