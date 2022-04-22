@@ -77,7 +77,7 @@ List of wordplay instances to classify in a **JSON format** or a CSV file (for m
 **Test data output format:** 
 
 List of wordplay instances to be classified in a **JSON format** or a CSV file (for manual runs) with the following fields:
-* `RUN_ID`: Run ID starting with **team_id_** (as registered at the CLEF website)
+* `RUN_ID`: Run ID starting with **team_id_task_id_** (as registered at the CLEF website)
 * `MANUAL`: Whether the run is manual {0,1}
 * `ID`: a unique wordplay identifier from the input file 
 * `WORDPLAY`: wordplay text
@@ -128,7 +128,7 @@ List of wordplay instances to translate in a **JSON format** or a CSV file (for 
 **Test data output format:** 
 
 List of wordplay instances to be translated in a **JSON format** or a CSV file (for manual runs) with the following fields:
-* `RUN_ID`: Run ID starting with **team_id_** (as registered at the CLEF website)
+* `RUN_ID`: Run ID starting with **team_id_task_id_** (as registered at the CLEF website)
 * `MANUAL`: Whether the run is manual {0,1}
 * `id`: a unique wordplay identifier 
 * `en`: wordplay text in English (source)
