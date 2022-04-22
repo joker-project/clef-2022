@@ -90,15 +90,16 @@ List of wordplay instances to be classified in a **JSON format** or a CSV file (
 * `CONVENTIONAL_FORM`: this is a binary (**True/False**) category, e.g. *Tom Swifty* (wellerism), *Monsieur et Madame… ont un fils* 
 * `OFFENSIVE` (not evaluated category): some wordplay instances are marked as offensive. 
 
-*Output format checker*
-You can use this python3 script to check the output format. The script requires Python 3 and the Pandas library:
-[Download python output checker](../check_format.py)
-
 *Output example*:
 
 ```
 [{"RUN_ID":"RT_task_1","MANUAL":1,"ID":"noun_1063","WORDPLAY":"Elimentaler","TARGET_WORD":"Elimentaler","DISAMBIGUATION":"Emmental (cheese) + Eliminator","HORIZONTAL\/VERTICAL":"vertical","MANIPULATION_TYPE":"Similarity","MANIPULATION_LEVEL":"Sound","CULTURAL_REFERENCE":false,"CONVENTIONAL_FORM":false,"OFFENSIVE":null},{"RUN_ID":"RT_task_1","MANUAL":1,"ID":"pun_341","WORDPLAY":"Geologists can be sedimental about their work.","TARGET_WORD":"sedimental","DISAMBIGUATION":"sentimental\/sediment","HORIZONTAL\/VERTICAL":"vertical","MANIPULATION_TYPE":"Similarity","MANIPULATION_LEVEL":"Sound","CULTURAL_REFERENCE":false,"CONVENTIONAL_FORM":false,"OFFENSIVE":null}]
 ```
+
+*Output format checker*
+
+You can use this python3 script to check the output format. The script requires Python 3 and the Pandas library:
+[Download python output checker](../check_format.py)
 
 **Evaluation.** Pilot Task 1 includes both classification and interpretation components. Classification performance will be evaluated with respect to accuracy, while interpretation performance will be evaluated semi-manually.
 
@@ -138,15 +139,16 @@ List of wordplay instances to be translated in a **JSON format** or a CSV file (
 * `en`: wordplay text in English (source)
 * `fr`: wordplay text in French (target) 
 
-*Output format checker*
-You can use this python3 script to check the output format. The script requires Python 3 and the Pandas library:
-[Download python output checker](../check_format.py)
-
 *Output example*:
 
 ```
 [{"RUN_ID":"OFFICIAL_task_2","MANUAL":1,"id":"noun_1","en":"Ambipom","fr":"Capidextre"}]
 ```
+
+*Output format checker*
+
+You can use this python3 script to check the output format. The script requires Python 3 and the Pandas library:
+[Download python output checker](../check_format.py)
 
 **Evaluation.** Human evaluators will manually annotate the submitted translations according to both subjective measures and according to more concrete features such as whether wordplay exists in the target text, whether it corresponds to the type used in the source text, whether the target text preserves the semantic field, etc.
 
@@ -160,10 +162,6 @@ List of translated wordplay instances in a **JSON format** or a CSV file (for ma
 * `id`: a unique wordplay identifier 
 * `en`: wordplay text in English (source)
 * `fr`: wordplay text in French (target) 
-
-*Output format checker*
-You can use this python3 script to check the output format. The script requires Python 3 and the Pandas library:
-[Download python output checker](../check_format.py)
 
 *Example:*
 
@@ -196,6 +194,11 @@ List of wordplay instances to be translated in a **JSON format** or a CSV file (
 ```
 [{"RUN_ID":"JCM_task_3","MANUAL":1,"id":"pun_724_1","en":"My name is Wade and I'm in swimming pool maintenance.","fr":" Je m\u2019appelle Jacques Ouzy, je m\u2019occupe de l\u2019entretien des piscines."}]
 ```
+
+*Output format checker*
+
+You can use this python3 script to check the output format. The script requires Python 3 and the Pandas library:
+[Download python output checker](../check_format.py)
 
 **Evaluation.** Human evaluators will manually annotate the submitted translations according to both subjective measures and according to more concrete features such as whether wordplay exists in the target text, whether it corresponds to the type used in the source text, whether the target text preserves the semantic field, etc.
 
