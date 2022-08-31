@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
   </p>
 
-[Home](index) | CLEF | [Publications](publications) | [Partners](partners) | [Contest](contest) | [Contact Us](contact) | [Tools](tools)
+[Home](index) | CLEF  | [CLEF program](program)| [Publications](publications) | [Partners](partners) | [Contest](contest) | [Contact Us](contact) | [Tools](tools)
 <br>
   <h1 align="center">CLEF Workshop:</h1>
   <h2 align="center">Automatic Pun and Humour Translation</h2>
