@@ -218,10 +218,10 @@ In case of violation of the conditions for access to the data for scientific pur
 ## How to Cite
 If you extend or use this work, please cite the [paper](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_27) where it was introduced:
 ```
-Ermakova, L. et al. (2022). Overview of JOKER@CLEF 2022: Automatic Wordplay and Humour Translation Workshop. 
-In: , et al. Experimental IR Meets Multilinguality, Multimodality, and Interaction. CLEF 2022. 
-Lecture Notes in Computer Science, vol 13390. Springer, Cham. 
-https://doi.org/10.1007/978-3-031-13643-6_27
+Liana Ermakova, Tristan Miller, Fabio Regattin, Anne-Gwenn Bosser, Claudine Borg, Élise Mathurin, Gaëlle Le Corre, 
+Sílvia Araújo, Radia Hannachi, Julien Boccou, Albin Digue, Aurianne Damoy & Benoît Jeanjean, 2022. 
+Overview of JOKER@ CLEF 2022: Automatic Wordplay and Humour Translation workshop. 
+In International Conference of the Cross-Language Evaluation Forum for European Languages (pp. 447-469). Springer, Cham.
 ```
 [Paper](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_27)
 
