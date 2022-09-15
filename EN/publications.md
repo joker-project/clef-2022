@@ -8,6 +8,9 @@
 
 <h2 align="center">Publications related to the JOKER project</h2>
   
+  [Publications](http://ceur-ws.org/Vol-3180/)
+
+  
   - Hempelmann Christian F. et Miller Tristan, «&nbsp;Puns: Taxonomy and phonology&nbsp;», <em>The Routledge handbook of language and humor</em>, édité par Salvatore Attardo, Routledge, 2017, <a href="https://dx.doi.org/10.4324/9781315731162-8">URL</a> - <a href="../BibTex/Puns_Taxonomy_and_phonology.bib">BibTeX</a>
   
   - Guibon Gaël et al., <em>Multilingual Fake News Detection with Satire</em>, 2019, <a href="https://halshs.archives-ouvertes.fr/halshs-02391141/document">URL</a> - <a href="../BibTex/Multilingual_Fake_News_Detection.bib">BibTeX</a>
