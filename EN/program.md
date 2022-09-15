@@ -39,4 +39,4 @@
 * **17:40 - 18:00** Victor Manuel Palma Preciado, Grigori Sidorov, Carolina Palma Preciado "Assessing Wordplay-Pun classification from JOKER dataset with pretrained BERT humorous models"
 * **18:00 - 18:50** Round table and JOKER 2023 discussion
 
-[Papiers](ceur-ws.org/Vol-3180/)
+[Papers](http://ceur-ws.org/Vol-3180/)
