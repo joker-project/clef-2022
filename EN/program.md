@@ -38,5 +38,3 @@
 * **17:20 - 17:40** Leopoldo Jesús Gutiérrez Galeano "LJGG @ CLEF JOKER Task 3: An improved solution joining with dataset from task 1"
 * **17:40 - 18:00** Victor Manuel Palma Preciado, Grigori Sidorov, Carolina Palma Preciado "Assessing Wordplay-Pun classification from JOKER dataset with pretrained BERT humorous models"
 * **18:00 - 18:50** Round table and JOKER 2023 discussion
-
-[Papers](http://ceur-ws.org/Vol-3180/)
