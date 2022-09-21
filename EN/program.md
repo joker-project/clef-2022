@@ -33,7 +33,7 @@
 * **15:50 - 16:10** Albin Digue, Paul Campen "Automatic translation of wordplay" ([Paper](http://ceur-ws.org/Vol-3180/paper-137.pdf), online).
 * **16:10 - 16:20** Paul Campen, Albin Digue "A history of classification and JokeR's reach" ([Paper](http://ceur-ws.org/Vol-3180/paper-132.pdf), online).
 * **16:20 - 16:40** Aygyul Epimakhova "Using machine learning to classify and interpret wordplay" ([Paper](http://ceur-ws.org/Vol-3180/paper-138.pdf), online).
-* **16:40 - 17:00** Loic Glemarec, Anne-Gwenn Bosser, Julien Boccou, Liana Ermakova "Humorous Wordplay Generation in French" ([Paper](http://ceur-ws.org/Vol-3180/paper-139.pdf), [Slide](../slides/Humorous Wordplay Generation in French.pdf)).
+* **16:40 - 17:00** Loic Glemarec, Anne-Gwenn Bosser, Julien Boccou, Liana Ermakova "Humorous Wordplay Generation in French" ([Paper](http://ceur-ws.org/Vol-3180/paper-139.pdf), [Slide](./slides/Humorous Wordplay Generation in French.pdf)).
 * *Break*
 * **17:20 - 17:40** Leopoldo Jesús Gutiérrez Galeano "LJGG @ CLEF JOKER Task 3: An improved solution joining with dataset from task 1" ([Paper](http://ceur-ws.org/Vol-3180/paper-141.pdf), online).
 * **17:40 - 18:00** Victor Manuel Palma Preciado, Grigori Sidorov, Carolina Palma Preciado "Assessing Wordplay-Pun classification from JOKER dataset with pretrained BERT humorous models" ([Paper](http://ceur-ws.org/Vol-3180/paper-142.pdf), online).
