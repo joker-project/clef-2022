@@ -22,7 +22,7 @@
 
 ## Tuesday 6th September (ROOM B)
 
-* **10:50 - 12:30** Lab overviews: CheckThat!, eRisk, **JokeR**, ImageCLEF, SimpleText [Slides](../slides/Copie de JOKER_CLEF-2022.pdf).
+* **10:50 - 12:30** Lab overviews: CheckThat!, eRisk, **JokeR**, ImageCLEF, SimpleText ([Slides](../slides/Copie de JOKER_CLEF-2022.pdf)).
 
 ## Wednesday 7th September (ROOM F)
 * **13:30 - 13:40** Welcome talk
