@@ -8,6 +8,46 @@
 
 <h2 align="center">Publications related to the JOKER project</h2>
   
+  - Ermakova Liana, Regattin Fabio, Miller Tristan, Bosser Anne-Gwenn, Araújo Silvia, Borg Claudine, Le Corre Gaëlle, Boccou Julien, Digue Albin, Damoy Aurianne, Campen Paul et Puchalski Orlane, Overview of the CLEF 2022 JOKER Task 1: Classify and Explain Instances of Wordplay. [URL](http://ceur-ws.org/Vol-3180/paper-126.pdf)
+  
+  - Ermakova Liana, Miller Tristan, Boccou Julien, Digue Albin, Damoy Aurianne et Campen Paul, Overview of the CLEF 2022 JOKER Task 2: Translate Wordplay in Named Entities. [URL](http://ceur-ws.org/Vol-3180/paper-127.pdf)
+  
+  - Ermakova Liana, Regattin Fabio, Miller Tristan, Bosser Anne-Gwenn, Borg Claudine, Jeanjean Benoît, Mathurin Élise, Le Corre Gaëlle, Hannachi Radia, Araújo Silvia, Boccou Julien, Digue Albin et Damoy Aurianne, Overview of the CLEF 2022 JOKER Task 3: Pun Translation from English into French. [URL](http://ceur-ws.org/Vol-3180/paper-128.pdf)
+  
+  - Arroubat Hakima, Wordplay location and interpretation with deep learning methods. [URL](http://ceur-ws.org/Vol-3180/paper-129.pdf)
+  
+  - Boccou Julien, Using ‘punning schemes’ as a template for translating wordplay. [URL](http://ceur-ws.org/Vol-3180/paper-130.pdf)
+  
+  - Bosser Anne-Gwenn, Ermakova Liana, Dupin de Saint-Cyr Florence, De Loor Pierre, Charpennay Victor, Pépin-Hermann Nicolas, Alcaraz Benoit, Autran Jean-Victor, Devillers Alexandre, Grosset Juliette, Hénard Aymeric et Marchal-Bornert Florian, Poetic or Humorous Text Generation: Jam event at PFIA2022. [URL](http://ceur-ws.org/Vol-3180/paper-131.pdf)
+  
+  - Campen Paul et Digue Albin, A history of classification and JokeR's reach. [URL](http://ceur-ws.org/Vol-3180/paper-132.pdf)
+  
+  - Damoy Aurianne, Translation strategies: adaptation and equivalence — Joker contest. [URL](http://ceur-ws.org/Vol-3180/paper-133.pdf)
+  
+  - Daniel Charlotte et Vandenborre Noémie, Translating, transcribing, transmitting and transcending a pun: why playing with words is far from being punless/pointless. [URL](http://ceur-ws.org/Vol-3180/paper-134.pdf)
+  
+  - Delarche Michel, A translation-oriented categorisation of wordplays. [URL](http://ceur-ws.org/Vol-3180/paper-135.pdf)
+  
+  - Dhanani Farhan Rafi, Muhammad et Tahir Muhammad Atif, FAST-MT Participation for the JOKER CLEF-2022 Automatic Pun and Humour Translation Tasks. [URL](http://ceur-ws.org/Vol-3180/paper-136.pdf)
+  
+  - Digue Albin et Campen Paul, Automatic translation of wordplay. [URL](http://ceur-ws.org/Vol-3180/paper-137.pdf)
+  
+  - Epimakhova Aygyul, Using machine learning to classify and interpret wordplay. [URL](http://ceur-ws.org/Vol-3180/paper-138.pdf)
+  
+- Glemarec Loïc, Bosser Anne-Gwenn, Boccou Julien et Ermakova Liana, Humorous Wordplay Generation in French. [URL](http://ceur-ws.org/Vol-3180/paper-139.pdf)
+  
+  - Glemarec Loïc, Use of SimpleT5 for the CLEF workshop JokeR: Automatic Pun and Humor Translation. [URL](http://ceur-ws.org/Vol-3180/paper-140.pdf)
+  
+  - Gutiérrez Galeano Leopoldo Jesús, LJGG @ CLEF JOKER Task 3: An improved solution joining with dataset from task 1. [URL](http://ceur-ws.org/Vol-3180/paper-141.pdf)
+  
+  - Palma Preciado Victor Manuel, Sidorov Grigori et Palma Preciado Carolina, Assessing Wordplay-Pun classification from JOKER dataset with pretrained BERT humorous models. [URL](http://ceur-ws.org/Vol-3180/paper-142.pdf)
+  
+  - Regattin Fabio, Automatic Translation and Wordplay: An Amateur’s (Playful) Thoughts. [URL](http://ceur-ws.org/Vol-3180/paper-143.pdf)
+  
+  - Samofalova Yuliya, Catellani Andrea et Cougnon Louise-Amélie, Greenpeace Memes for Communicating Climate Change. [URL](http://ceur-ws.org/Vol-3180/paper-144.pdf)
+  
+  - Talec-Bernard Léa, How good can an automatic translation of Pokémon names be? [URL](http://ceur-ws.org/Vol-3180/paper-145.pdf)
+  
   - Hempelmann Christian F. et Miller Tristan, «&nbsp;Puns: Taxonomy and phonology&nbsp;», <em>The Routledge handbook of language and humor</em>, édité par Salvatore Attardo, Routledge, 2017, <a href="https://dx.doi.org/10.4324/9781315731162-8">URL</a> - <a href="../BibTex/Puns_Taxonomy_and_phonology.bib">BibTeX</a>
   
   - Guibon Gaël et al., <em>Multilingual Fake News Detection with Satire</em>, 2019, <a href="https://halshs.archives-ouvertes.fr/halshs-02391141/document">URL</a> - <a href="../BibTex/Multilingual_Fake_News_Detection.bib">BibTeX</a>
