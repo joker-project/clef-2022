@@ -29,7 +29,7 @@
 * **13:40 - 14:40** Invited talk by **Paolo Rosso** (Polytechnic University of Valencia) "Humour, Irony and Sarcasm: Often Lost in Translation" ([Slides](../slides/keynoteJokeR.pdf)).
 * **14:40 - 15:00** Anne-Gwenn Bosser, Liana Ermakova, Florence Dupin de Saint-Cyr, Pierre De Loor, Victor Charpennay, Nicolas Pépin-Hermann, Benoit Alcaraz, Jean-Victor Autran, Alexandre Devillers, Juliette Grosset, Aymeric Hénard, Florian Marchal-Bornert "Poetic or Humorous Text Generation: Jam event at PFIA2022" ([Paper](http://ceur-ws.org/Vol-3180/paper-131.pdf), online).
 * *Break*
-* **15:30 - 15:50** Farhan Dhanani, Muhammad Rafi, Muhammad Atif Tahir "FAST-MT Participation for the JOKER CLEF-2022 Automatic Pun and Humour Translation Tasks" ([Paper](http://ceur-ws.org/Vol-3180/paper-136.pdf), online).
+* **15:30 - 15:50** Farhan Dhanani, Muhammad Rafi, Muhammad Atif Tahir "FAST-MT Participation for the JOKER CLEF-2022 Automatic Pun and Humour Translation Tasks" ([Paper](http://ceur-ws.org/Vol-3180/paper-136.pdf), [Slides](../slides/15-Min-Presentation-for-FAST-MT-Participation-in-JOKER-CLEF22.pdf)).
 * **15:50 - 16:10** Albin Digue, Paul Campen "Automatic translation of wordplay" ([Paper](http://ceur-ws.org/Vol-3180/paper-137.pdf), online).
 * **16:10 - 16:20** Paul Campen, Albin Digue "A history of classification and JokeR's reach" ([Paper](http://ceur-ws.org/Vol-3180/paper-132.pdf), online).
 * **16:20 - 16:40** Aygyul Epimakhova "Using machine learning to classify and interpret wordplay" ([Paper](http://ceur-ws.org/Vol-3180/paper-138.pdf), online).
