@@ -36,5 +36,5 @@
 * **16:40 - 17:00** Loic Glemarec, Anne-Gwenn Bosser, Julien Boccou, Liana Ermakova "Humorous Wordplay Generation in French" ([Paper](http://ceur-ws.org/Vol-3180/paper-139.pdf), [Slides](../slides/Humorous Wordplay Generation in French.pdf)).
 * *Break*
 * **17:20 - 17:40** Leopoldo Jesús Gutiérrez Galeano "LJGG @ CLEF JOKER Task 3: An improved solution joining with dataset from task 1" ([Paper](http://ceur-ws.org/Vol-3180/paper-141.pdf), [Slides](../slides/Victor-CLEF2022JOKER.pdf)).
-* **17:40 - 18:00** Victor Manuel Palma Preciado, Grigori Sidorov, Carolina Palma Preciado "Assessing Wordplay-Pun classification from JOKER dataset with pretrained BERT humorous models" ([Paper](http://ceur-ws.org/Vol-3180/paper-142.pdf), online).
+* **17:40 - 18:00** Victor Manuel Palma Preciado, Grigori Sidorov, Carolina Palma Preciado "Assessing Wordplay-Pun classification from JOKER dataset with pretrained BERT humorous models" ([Paper](http://ceur-ws.org/Vol-3180/paper-142.pdf), [Slides](../slides/Victor-CLEF2022JOKER.pdf)).
 * **18:00 - 18:50** Round table and JOKER 2023 discussion
