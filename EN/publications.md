@@ -34,7 +34,7 @@
   
   - Epimakhova Aygyul, Using machine learning to classify and interpret wordplay. [URL](http://ceur-ws.org/Vol-3180/paper-138.pdf)
   
-- Glemarec Loïc, Bosser Anne-Gwenn, Boccou Julien et Ermakova Liana, Humorous Wordplay Generation in French. [URL](http://ceur-ws.org/Vol-3180/paper-139.pdf)
+  - Glemarec Loïc, Bosser Anne-Gwenn, Boccou Julien et Ermakova Liana, Humorous Wordplay Generation in French. [URL](http://ceur-ws.org/Vol-3180/paper-139.pdf)
   
   - Glemarec Loïc, Use of SimpleT5 for the CLEF workshop JokeR: Automatic Pun and Humor Translation. [URL](http://ceur-ws.org/Vol-3180/paper-140.pdf)
   
