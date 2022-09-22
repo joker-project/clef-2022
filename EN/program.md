@@ -31,7 +31,7 @@
 * *Break*
 * **15:30 - 15:50** Farhan Dhanani, Muhammad Rafi, Muhammad Atif Tahir "FAST-MT Participation for the JOKER CLEF-2022 Automatic Pun and Humour Translation Tasks" ([Paper](http://ceur-ws.org/Vol-3180/paper-136.pdf), [Slides](../slides/15-Min-Presentation-for-FAST-MT-Participation-in-JOKER-CLEF22.pdf)).
 * **15:50 - 16:10** Albin Digue, Paul Campen "Automatic translation of wordplay" ([Paper](http://ceur-ws.org/Vol-3180/paper-137.pdf), [Slides](../slides/Prez - Automatic translation of wordplay.pdf)).
-* **16:10 - 16:20** Paul Campen, Albin Digue "A history of classification and JokeR's reach" ([Paper](http://ceur-ws.org/Vol-3180/paper-132.pdf), online).
+* **16:10 - 16:20** Paul Campen, Albin Digue "A history of classification and JokeR's reach" ([Paper](http://ceur-ws.org/Vol-3180/paper-132.pdf), [Slides](../slides/Prez - A history of classification.pdf)).
 * **16:20 - 16:40** Aygyul Epimakhova "Using machine learning to classify and interpret wordplay" ([Paper](http://ceur-ws.org/Vol-3180/paper-138.pdf), online).
 * **16:40 - 17:00** Loic Glemarec, Anne-Gwenn Bosser, Julien Boccou, Liana Ermakova "Humorous Wordplay Generation in French" ([Paper](http://ceur-ws.org/Vol-3180/paper-139.pdf), [Slides](../slides/Humorous Wordplay Generation in French.pdf)).
 * *Break*
