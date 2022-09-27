@@ -10,7 +10,7 @@
   
   - Ermakova Liana, Miller Tristan, Regattin Fabio, Bosser Anne-Gwen, Borg Claudine, Mathurin Elise, Le Corre Gaëlle, Araujo Silvia, Hannachi Radia, Boccou Julien, Digue Albin, Demoy Aurianne et Jeanjean Benoît, Overview of JOKER@CLEF 2022: Automatic Wordplay and Humour Translation Workshop. [URL](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_27) - <a href="../BibTex/joker-clef-2022.bib">BibTeX</a>
   
-  - Ermakova Liana, Regattin Fabio, Miller Tristan, Bosser Anne-Gwenn, Araújo Silvia, Borg Claudine, Le Corre Gaëlle, Boccou Julien, Digue Albin, Damoy Aurianne, Campen Paul et Puchalski Orlane, Overview of the CLEF 2022 JOKER Task 1: Classify and Explain Instances of Wordplay. [URL](http://ceur-ws.org/Vol-3180/paper-126.pdf)
+  - Ermakova Liana, Regattin Fabio, Miller Tristan, Bosser Anne-Gwenn, Araújo Silvia, Borg Claudine, Le Corre Gaëlle, Boccou Julien, Digue Albin, Damoy Aurianne, Campen Paul et Puchalski Orlane, Overview of the CLEF 2022 JOKER Task 1: Classify and Explain Instances of Wordplay. [URL](http://ceur-ws.org/Vol-3180/paper-126.pdf) - <a href="../BibTex/overview-clef-2022-task-1.bib">BibTeX</a>
   
   - Ermakova Liana, Miller Tristan, Boccou Julien, Digue Albin, Damoy Aurianne et Campen Paul, Overview of the CLEF 2022 JOKER Task 2: Translate Wordplay in Named Entities. [URL](http://ceur-ws.org/Vol-3180/paper-127.pdf)
   
