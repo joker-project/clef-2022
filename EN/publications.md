@@ -30,7 +30,7 @@
   
   - Delarche Michel, A translation-oriented categorisation of wordplays. [URL](http://ceur-ws.org/Vol-3180/paper-135.pdf) - <a href="../BibTex/translation-oriented-categorisation-of-wordplays.bib">BibTeX</a>
   
-  - Dhanani Farhan Rafi, Muhammad et Tahir Muhammad Atif, FAST-MT Participation for the JOKER CLEF-2022 Automatic Pun and Humour Translation Tasks. [URL](http://ceur-ws.org/Vol-3180/paper-136.pdf)
+  - Dhanani Farhan Rafi, Muhammad et Tahir Muhammad Atif, FAST-MT Participation for the JOKER CLEF-2022 Automatic Pun and Humour Translation Tasks. [URL](http://ceur-ws.org/Vol-3180/paper-136.pdf) - <a href="../BibTex/fast-mt-clef-2022.bib">BibTeX</a>
   
   - Digue Albin et Campen Paul, Automatic translation of wordplay. [URL](http://ceur-ws.org/Vol-3180/paper-137.pdf)
   
