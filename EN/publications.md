@@ -26,7 +26,7 @@
   
   - Damoy Aurianne, Translation strategies: adaptation and equivalence — Joker contest. [URL](http://ceur-ws.org/Vol-3180/paper-133.pdf) - <a href="../BibTex/translation-strategies-adaptation-and-equivalence.bib">BibTeX</a>
   
-  - Daniel Charlotte et Vandenborre Noémie, Translating, transcribing, transmitting and transcending a pun: why playing with words is far from being punless/pointless. [URL](http://ceur-ws.org/Vol-3180/paper-134.pdf)
+  - Daniel Charlotte et Vandenborre Noémie, Translating, transcribing, transmitting and transcending a pun: why playing with words is far from being punless/pointless. [URL](http://ceur-ws.org/Vol-3180/paper-134.pdf) - <a href="../BibTex/translating-transcribing-transmitting-transcending.bib">BibTeX</a>
   
   - Delarche Michel, A translation-oriented categorisation of wordplays. [URL](http://ceur-ws.org/Vol-3180/paper-135.pdf)
   
