@@ -34,21 +34,21 @@
   
   - Digue Albin et Campen Paul, Automatic translation of wordplay. [URL](http://ceur-ws.org/Vol-3180/paper-137.pdf)
   
-  - Epimakhova Aygyul, Using machine learning to classify and interpret wordplay. [URL](http://ceur-ws.org/Vol-3180/paper-138.pdf)
+  - Epimakhova Aygyul, Using machine learning to classify and interpret wordplay. [URL](http://ceur-ws.org/Vol-3180/paper-138.pdf) - <a href="../BibTex/using-machine-learning.bib">BibTeX</a>
   
   - Glemarec Loïc, Bosser Anne-Gwenn, Boccou Julien et Ermakova Liana, Humorous Wordplay Generation in French. [URL](http://ceur-ws.org/Vol-3180/paper-139.pdf)
   
-  - Glemarec Loïc, Use of SimpleT5 for the CLEF workshop JokeR: Automatic Pun and Humor Translation. [URL](http://ceur-ws.org/Vol-3180/paper-140.pdf)
+  - Glemarec Loïc, Use of SimpleT5 for the CLEF workshop JokeR: Automatic Pun and Humor Translation. [URL](http://ceur-ws.org/Vol-3180/paper-140.pdf) - <a href="../BibTex/use-of-simplet5-for-clef-workshop.bib">BibTeX</a>
   
-  - Gutiérrez Galeano Leopoldo Jesús, LJGG @ CLEF JOKER Task 3: An improved solution joining with dataset from task 1. [URL](http://ceur-ws.org/Vol-3180/paper-141.pdf)
+  - Gutiérrez Galeano Leopoldo Jesús, LJGG @ CLEF JOKER Task 3: An improved solution joining with dataset from task 1. [URL](http://ceur-ws.org/Vol-3180/paper-141.pdf) - <a href="../BibTex/ljgg-clef-joker-task-3.bib">BibTeX</a>
   
   - Palma Preciado Victor Manuel, Sidorov Grigori et Palma Preciado Carolina, Assessing Wordplay-Pun classification from JOKER dataset with pretrained BERT humorous models. [URL](http://ceur-ws.org/Vol-3180/paper-142.pdf)
   
-  - Regattin Fabio, Automatic Translation and Wordplay: An Amateur’s (Playful) Thoughts. [URL](http://ceur-ws.org/Vol-3180/paper-143.pdf)
+  - Regattin Fabio, Automatic Translation and Wordplay: An Amateur’s (Playful) Thoughts. [URL](http://ceur-ws.org/Vol-3180/paper-143.pdf) - <a href="../BibTex/automatic-translation-of-wordplay-an-amateur-playful-thoughts.bib">BibTeX</a>
   
-  - Samofalova Yuliya, Catellani Andrea et Cougnon Louise-Amélie, Greenpeace Memes for Communicating Climate Change. [URL](http://ceur-ws.org/Vol-3180/paper-144.pdf)
+  - Samofalova Yuliya, Catellani Andrea et Cougnon Louise-Amélie, Greenpeace Memes for Communicating Climate Change. [URL](http://ceur-ws.org/Vol-3180/paper-144.pdf) - <a href="../BibTex/greenpeace-memes.bib">BibTeX</a>
   
-  - Talec-Bernard Léa, How good can an automatic translation of Pokémon names be? [URL](http://ceur-ws.org/Vol-3180/paper-145.pdf)
+  - Talec-Bernard Léa, How good can an automatic translation of Pokémon names be? [URL](http://ceur-ws.org/Vol-3180/paper-145.pdf) - <a href="../BibTex/automatic-translation-of-pokemon-names.bib">BibTeX</a>
   
   - Hempelmann Christian F. et Miller Tristan, «&nbsp;Puns: Taxonomy and phonology&nbsp;», <em>The Routledge handbook of language and humor</em>, édité par Salvatore Attardo, Routledge, 2017, <a href="https://dx.doi.org/10.4324/9781315731162-8">URL</a> - <a href="../BibTex/Puns_Taxonomy_and_phonology.bib">BibTeX</a>
   
