@@ -24,7 +24,7 @@
   
   - Campen Paul et Digue Albin, A history of classification and JokeR's reach. [URL](http://ceur-ws.org/Vol-3180/paper-132.pdf)
   
-  - Damoy Aurianne, Translation strategies: adaptation and equivalence — Joker contest. [URL](http://ceur-ws.org/Vol-3180/paper-133.pdf)
+  - Damoy Aurianne, Translation strategies: adaptation and equivalence — Joker contest. [URL](http://ceur-ws.org/Vol-3180/paper-133.pdf) - <a href="../BibTex/translation-strategies-adaptation-and-equivalence.bib">BibTeX</a>
   
   - Daniel Charlotte et Vandenborre Noémie, Translating, transcribing, transmitting and transcending a pun: why playing with words is far from being punless/pointless. [URL](http://ceur-ws.org/Vol-3180/paper-134.pdf)
   
