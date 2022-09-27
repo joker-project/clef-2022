@@ -14,7 +14,7 @@
   
   - Ermakova Liana, Miller Tristan, Boccou Julien, Digue Albin, Damoy Aurianne et Campen Paul, Overview of the CLEF 2022 JOKER Task 2: Translate Wordplay in Named Entities. [URL](http://ceur-ws.org/Vol-3180/paper-127.pdf)
   
-  - Ermakova Liana, Regattin Fabio, Miller Tristan, Bosser Anne-Gwenn, Borg Claudine, Jeanjean Benoît, Mathurin Élise, Le Corre Gaëlle, Hannachi Radia, Araújo Silvia, Boccou Julien, Digue Albin et Damoy Aurianne, Overview of the CLEF 2022 JOKER Task 3: Pun Translation from English into French. [URL](http://ceur-ws.org/Vol-3180/paper-128.pdf)
+  - Ermakova Liana, Regattin Fabio, Miller Tristan, Bosser Anne-Gwenn, Borg Claudine, Jeanjean Benoît, Mathurin Élise, Le Corre Gaëlle, Hannachi Radia, Araújo Silvia, Boccou Julien, Digue Albin et Damoy Aurianne, Overview of the CLEF 2022 JOKER Task 3: Pun Translation from English into French. [URL](http://ceur-ws.org/Vol-3180/paper-128.pdf) - <a href="../BibTex/overview-clef-2022-task-3.bib">BibTeX</a>
   
   - Arroubat Hakima, Wordplay location and interpretation with deep learning methods. [URL](http://ceur-ws.org/Vol-3180/paper-129.pdf)
   
