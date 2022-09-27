@@ -28,7 +28,7 @@
   
   - Daniel Charlotte et Vandenborre Noémie, Translating, transcribing, transmitting and transcending a pun: why playing with words is far from being punless/pointless. [URL](http://ceur-ws.org/Vol-3180/paper-134.pdf) - <a href="../BibTex/translating-transcribing-transmitting-transcending.bib">BibTeX</a>
   
-  - Delarche Michel, A translation-oriented categorisation of wordplays. [URL](http://ceur-ws.org/Vol-3180/paper-135.pdf)
+  - Delarche Michel, A translation-oriented categorisation of wordplays. [URL](http://ceur-ws.org/Vol-3180/paper-135.pdf) - <a href="../BibTex/translation-oriented-categorisation-of-wordplays.bib">BibTeX</a>
   
   - Dhanani Farhan Rafi, Muhammad et Tahir Muhammad Atif, FAST-MT Participation for the JOKER CLEF-2022 Automatic Pun and Humour Translation Tasks. [URL](http://ceur-ws.org/Vol-3180/paper-136.pdf)
   
