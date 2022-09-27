@@ -18,7 +18,7 @@
   
   - Arroubat Hakima, Wordplay location and interpretation with deep learning methods. [URL](http://ceur-ws.org/Vol-3180/paper-129.pdf)
   
-  - Boccou Julien, Using ‘punning schemes’ as a template for translating wordplay. [URL](http://ceur-ws.org/Vol-3180/paper-130.pdf)
+  - Boccou Julien, Using a ‘punning schemes’ as a template for translating wordplay. [URL](http://ceur-ws.org/Vol-3180/paper-130.pdf) - <a href="../BibTex/using-a-punning-scheme-as-a-template.bib">BibTeX</a>
   
   - Bosser Anne-Gwenn, Ermakova Liana, Dupin de Saint-Cyr Florence, De Loor Pierre, Charpennay Victor, Pépin-Hermann Nicolas, Alcaraz Benoit, Autran Jean-Victor, Devillers Alexandre, Grosset Juliette, Hénard Aymeric et Marchal-Bornert Florian, Poetic or Humorous Text Generation: Jam event at PFIA2022. [URL](http://ceur-ws.org/Vol-3180/paper-131.pdf)
   
