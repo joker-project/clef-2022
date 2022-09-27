@@ -22,7 +22,7 @@
   
   - Bosser Anne-Gwenn, Ermakova Liana, Dupin de Saint-Cyr Florence, De Loor Pierre, Charpennay Victor, Pépin-Hermann Nicolas, Alcaraz Benoit, Autran Jean-Victor, Devillers Alexandre, Grosset Juliette, Hénard Aymeric et Marchal-Bornert Florian, Poetic or Humorous Text Generation: Jam event at PFIA2022. [URL](http://ceur-ws.org/Vol-3180/paper-131.pdf)
   
-  - Campen Paul et Digue Albin, A history of classification and JokeR's reach. [URL](http://ceur-ws.org/Vol-3180/paper-132.pdf)
+  - Campen Paul et Digue Albin, A history of classification and JokeR's reach. [URL](http://ceur-ws.org/Vol-3180/paper-132.pdf) - <a href="../BibTex/a-history-of-classification.bib">BibTeX</a>
   
   - Damoy Aurianne, Translation strategies: adaptation and equivalence — Joker contest. [URL](http://ceur-ws.org/Vol-3180/paper-133.pdf) - <a href="../BibTex/translation-strategies-adaptation-and-equivalence.bib">BibTeX</a>
   
