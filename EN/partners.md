@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
-[Home](index) | [Project](project) | [Publications](publications) | Partners | [Contest](contest) | [Contact Us](contact) | [Tools](tools) | [CLEF-2023](../clef-2023/)
+[Home](index) | [Project](project) | [Publications](publications) | Partners | [Contest](contest) | [Contact Us](contact) | [Tools](tools) | [CLEF-2023](https://www.joker-project.com/clef-2023/)
 
 ## Organizers: 
 * **Liana Ermakova (UBO)**
