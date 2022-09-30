@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
- Home | [Project](project) | [Publications](publications) | [Partners](partners) | [Contest](contest) | [Contact Us](contact) | [Tools](tools) | [CLEF-2023](../clef-2023/)
+ Home | [Project](project) | [Publications](publications) | [Partners](partners) | [Contest](contest) | [Contact Us](contact) | [Tools](tools) | [CLEF-2023](https://www.joker-project.com/clef-2023/)
 <br>
 
 <h2 align="center">Interculturality and Localization of Humor and Puns</h2>
