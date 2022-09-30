@@ -16,11 +16,11 @@
   
   - Ermakova Liana, Regattin Fabio, Miller Tristan, Bosser Anne-Gwenn, Borg Claudine, Jeanjean Benoît, Mathurin Élise, Le Corre Gaëlle, Hannachi Radia, Araújo Silvia, Boccou Julien, Digue Albin et Damoy Aurianne, «&nbsp;Overview of the CLEF 2022 JOKER Task 3: Pun Translation from English into French&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-128.pdf) - <a href="../BibTex/overview-clef-2022-task-3.bib">BibTeX</a>
   
-  - Arroubat Hakima, «&nbsp;Wordplay location and interpretation with deep learning methods&nbsp;». [URL](http://ceur-ws.org/Vol-3180/paper-129.pdf)
+  - Arroubat Hakima, «&nbsp;Wordplay location and interpretation with deep learning methods&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-129.pdf)
   
   - Boccou Julien, «&nbsp;Using a ‘punning schemes’ as a template for translating wordplay&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-130.pdf) - <a href="../BibTex/using-a-punning-scheme-as-a-template.bib">BibTeX</a>
   
-  - Bosser Anne-Gwenn, Ermakova Liana, Dupin de Saint-Cyr Florence, De Loor Pierre, Charpennay Victor, Pépin-Hermann Nicolas, Alcaraz Benoit, Autran Jean-Victor, Devillers Alexandre, Grosset Juliette, Hénard Aymeric et Marchal-Bornert Florian, «&nbsp;Poetic or Humorous Text Generation: Jam event at PFIA2022&nbsp;». [URL](http://ceur-ws.org/Vol-3180/paper-131.pdf)
+  - Bosser Anne-Gwenn, Ermakova Liana, Dupin de Saint-Cyr Florence, De Loor Pierre, Charpennay Victor, Pépin-Hermann Nicolas, Alcaraz Benoit, Autran Jean-Victor, Devillers Alexandre, Grosset Juliette, Hénard Aymeric et Marchal-Bornert Florian, «&nbsp;Poetic or Humorous Text Generation: Jam event at PFIA2022&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-131.pdf)
   
   - Campen Paul et Digue Albin, «&nbsp;A history of classification and JokeR's reach&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-132.pdf) - <a href="../BibTex/a-history-of-classification.bib">BibTeX</a>
   
@@ -32,17 +32,17 @@
   
   - Dhanani Farhan Rafi, Muhammad et Tahir Muhammad Atif, «&nbsp;FAST-MT Participation for the JOKER CLEF-2022 Automatic Pun and Humour Translation Tasks&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-136.pdf) - <a href="../BibTex/fast-mt-clef-2022.bib">BibTeX</a>
   
-  - Digue Albin et Campen Paul, «&nbsp;Automatic translation of wordplay&nbsp;». [URL](http://ceur-ws.org/Vol-3180/paper-137.pdf)
+  - Digue Albin et Campen Paul, «&nbsp;Automatic translation of wordplay&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-137.pdf)
   
   - Epimakhova Aygyul, «&nbsp;Using machine learning to classify and interpret wordplay&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-138.pdf) - <a href="../BibTex/using-machine-learning.bib">BibTeX</a>
   
-  - Glemarec Loïc, Bosser Anne-Gwenn, Boccou Julien et Ermakova Liana, «&nbsp;Humorous Wordplay Generation in French&nbsp;». [URL](http://ceur-ws.org/Vol-3180/paper-139.pdf)
+  - Glemarec Loïc, Bosser Anne-Gwenn, Boccou Julien et Ermakova Liana, «&nbsp;Humorous Wordplay Generation in French&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-139.pdf)
   
   - Glemarec Loïc, «&nbsp;Use of SimpleT5 for the CLEF workshop JokeR: Automatic Pun and Humor Translation&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-140.pdf) - <a href="../BibTex/use-of-simplet5-for-clef-workshop.bib">BibTeX</a>
   
   - Gutiérrez Galeano Leopoldo Jesús, «&nbsp;LJGG @ CLEF JOKER Task 3: An improved solution joining with dataset from task 1&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-141.pdf) - <a href="../BibTex/ljgg-clef-joker-task-3.bib">BibTeX</a>
   
-  - Palma Preciado Victor Manuel, Sidorov Grigori et Palma Preciado Carolina, «&nbsp;Assessing Wordplay-Pun classification from JOKER dataset with pretrained BERT humorous models&nbsp;». [URL](http://ceur-ws.org/Vol-3180/paper-142.pdf)
+  - Palma Preciado Victor Manuel, Sidorov Grigori et Palma Preciado Carolina, «&nbsp;Assessing Wordplay-Pun classification from JOKER dataset with pretrained BERT humorous models&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-142.pdf)
   
   - Regattin Fabio, «&nbsp;Automatic Translation and Wordplay: An Amateur’s (Playful) Thoughts&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-143.pdf) - <a href="../BibTex/automatic-translation-of-wordplay-an-amateur-playful-thoughts.bib">BibTeX</a>
   
