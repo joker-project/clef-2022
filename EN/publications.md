@@ -3,7 +3,7 @@
   <img src="../img/Joker.png" width="120" height="142">
 </p>
 
- [Home](index) | [Project](project) | [CLEF-2023](../clef-2023/) | Publications | [Partners](partners) | [Contest](contest) | [Contact Us](contact) | [Tools](tools) | [CLEF-2023](../clef-2023/)
+ [Home](index) | [Project](project) | [CLEF-2023](../clef-2023/) | Publications | [Partners](partners) | [Contest](contest) | [Contact Us](contact) | [Tools](tools) | [CLEF-2023](https://www.joker-project.com/clef-2023/)
 <br>
 
 <h2 align="center">Publications related to the JOKER project</h2>
