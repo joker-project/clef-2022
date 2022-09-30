@@ -16,39 +16,39 @@
   
   - Ermakova Liana, Regattin Fabio, Miller Tristan, Bosser Anne-Gwenn, Borg Claudine, Jeanjean Benoît, Mathurin Élise, Le Corre Gaëlle, Hannachi Radia, Araújo Silvia, Boccou Julien, Digue Albin et Damoy Aurianne, «&nbsp;Overview of the CLEF 2022 JOKER Task 3: Pun Translation from English into French&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-128.pdf) - <a href="../BibTex/overview-clef-2022-task-3.bib">BibTeX</a>
   
-  - Arroubat Hakima, Wordplay location and interpretation with deep learning methods. [URL](http://ceur-ws.org/Vol-3180/paper-129.pdf)
+  - Arroubat Hakima, «&nbsp;Wordplay location and interpretation with deep learning methods&nbsp;». [URL](http://ceur-ws.org/Vol-3180/paper-129.pdf)
   
-  - Boccou Julien, Using a ‘punning schemes’ as a template for translating wordplay. [URL](http://ceur-ws.org/Vol-3180/paper-130.pdf) - <a href="../BibTex/using-a-punning-scheme-as-a-template.bib">BibTeX</a>
+  - Boccou Julien, «&nbsp;Using a ‘punning schemes’ as a template for translating wordplay&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-130.pdf) - <a href="../BibTex/using-a-punning-scheme-as-a-template.bib">BibTeX</a>
   
-  - Bosser Anne-Gwenn, Ermakova Liana, Dupin de Saint-Cyr Florence, De Loor Pierre, Charpennay Victor, Pépin-Hermann Nicolas, Alcaraz Benoit, Autran Jean-Victor, Devillers Alexandre, Grosset Juliette, Hénard Aymeric et Marchal-Bornert Florian, Poetic or Humorous Text Generation: Jam event at PFIA2022. [URL](http://ceur-ws.org/Vol-3180/paper-131.pdf)
+  - Bosser Anne-Gwenn, Ermakova Liana, Dupin de Saint-Cyr Florence, De Loor Pierre, Charpennay Victor, Pépin-Hermann Nicolas, Alcaraz Benoit, Autran Jean-Victor, Devillers Alexandre, Grosset Juliette, Hénard Aymeric et Marchal-Bornert Florian, «&nbsp;Poetic or Humorous Text Generation: Jam event at PFIA2022&nbsp;». [URL](http://ceur-ws.org/Vol-3180/paper-131.pdf)
   
-  - Campen Paul et Digue Albin, A history of classification and JokeR's reach. [URL](http://ceur-ws.org/Vol-3180/paper-132.pdf) - <a href="../BibTex/a-history-of-classification.bib">BibTeX</a>
+  - Campen Paul et Digue Albin, «&nbsp;A history of classification and JokeR's reach&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-132.pdf) - <a href="../BibTex/a-history-of-classification.bib">BibTeX</a>
   
-  - Damoy Aurianne, Translation strategies: adaptation and equivalence — Joker contest. [URL](http://ceur-ws.org/Vol-3180/paper-133.pdf) - <a href="../BibTex/translation-strategies-adaptation-and-equivalence.bib">BibTeX</a>
+  - Damoy Aurianne, «&nbsp;Translation strategies: adaptation and equivalence — Joker contest&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-133.pdf) - <a href="../BibTex/translation-strategies-adaptation-and-equivalence.bib">BibTeX</a>
   
-  - Daniel Charlotte et Vandenborre Noémie, Translating, transcribing, transmitting and transcending a pun: why playing with words is far from being punless/pointless. [URL](http://ceur-ws.org/Vol-3180/paper-134.pdf) - <a href="../BibTex/translating-transcribing-transmitting-transcending.bib">BibTeX</a>
+  - Daniel Charlotte et Vandenborre Noémie, «&nbsp;Translating, transcribing, transmitting and transcending a pun: why playing with words is far from being punless/pointless&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-134.pdf) - <a href="../BibTex/translating-transcribing-transmitting-transcending.bib">BibTeX</a>
   
-  - Delarche Michel, A translation-oriented categorisation of wordplays. [URL](http://ceur-ws.org/Vol-3180/paper-135.pdf) - <a href="../BibTex/translation-oriented-categorisation-of-wordplays.bib">BibTeX</a>
+  - Delarche Michel, «&nbsp;A translation-oriented categorisation of wordplays&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-135.pdf) - <a href="../BibTex/translation-oriented-categorisation-of-wordplays.bib">BibTeX</a>
   
-  - Dhanani Farhan Rafi, Muhammad et Tahir Muhammad Atif, FAST-MT Participation for the JOKER CLEF-2022 Automatic Pun and Humour Translation Tasks. [URL](http://ceur-ws.org/Vol-3180/paper-136.pdf) - <a href="../BibTex/fast-mt-clef-2022.bib">BibTeX</a>
+  - Dhanani Farhan Rafi, Muhammad et Tahir Muhammad Atif, «&nbsp;FAST-MT Participation for the JOKER CLEF-2022 Automatic Pun and Humour Translation Tasks&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-136.pdf) - <a href="../BibTex/fast-mt-clef-2022.bib">BibTeX</a>
   
-  - Digue Albin et Campen Paul, Automatic translation of wordplay. [URL](http://ceur-ws.org/Vol-3180/paper-137.pdf)
+  - Digue Albin et Campen Paul, «&nbsp;Automatic translation of wordplay&nbsp;». [URL](http://ceur-ws.org/Vol-3180/paper-137.pdf)
   
-  - Epimakhova Aygyul, Using machine learning to classify and interpret wordplay. [URL](http://ceur-ws.org/Vol-3180/paper-138.pdf) - <a href="../BibTex/using-machine-learning.bib">BibTeX</a>
+  - Epimakhova Aygyul, «&nbsp;Using machine learning to classify and interpret wordplay&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-138.pdf) - <a href="../BibTex/using-machine-learning.bib">BibTeX</a>
   
-  - Glemarec Loïc, Bosser Anne-Gwenn, Boccou Julien et Ermakova Liana, Humorous Wordplay Generation in French. [URL](http://ceur-ws.org/Vol-3180/paper-139.pdf)
+  - Glemarec Loïc, Bosser Anne-Gwenn, Boccou Julien et Ermakova Liana, «&nbsp;Humorous Wordplay Generation in French&nbsp;». [URL](http://ceur-ws.org/Vol-3180/paper-139.pdf)
   
-  - Glemarec Loïc, Use of SimpleT5 for the CLEF workshop JokeR: Automatic Pun and Humor Translation. [URL](http://ceur-ws.org/Vol-3180/paper-140.pdf) - <a href="../BibTex/use-of-simplet5-for-clef-workshop.bib">BibTeX</a>
+  - Glemarec Loïc, «&nbsp;Use of SimpleT5 for the CLEF workshop JokeR: Automatic Pun and Humor Translation&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-140.pdf) - <a href="../BibTex/use-of-simplet5-for-clef-workshop.bib">BibTeX</a>
   
-  - Gutiérrez Galeano Leopoldo Jesús, LJGG @ CLEF JOKER Task 3: An improved solution joining with dataset from task 1. [URL](http://ceur-ws.org/Vol-3180/paper-141.pdf) - <a href="../BibTex/ljgg-clef-joker-task-3.bib">BibTeX</a>
+  - Gutiérrez Galeano Leopoldo Jesús, «&nbsp;LJGG @ CLEF JOKER Task 3: An improved solution joining with dataset from task 1&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-141.pdf) - <a href="../BibTex/ljgg-clef-joker-task-3.bib">BibTeX</a>
   
-  - Palma Preciado Victor Manuel, Sidorov Grigori et Palma Preciado Carolina, Assessing Wordplay-Pun classification from JOKER dataset with pretrained BERT humorous models. [URL](http://ceur-ws.org/Vol-3180/paper-142.pdf)
+  - Palma Preciado Victor Manuel, Sidorov Grigori et Palma Preciado Carolina, «&nbsp;Assessing Wordplay-Pun classification from JOKER dataset with pretrained BERT humorous models&nbsp;». [URL](http://ceur-ws.org/Vol-3180/paper-142.pdf)
   
-  - Regattin Fabio, Automatic Translation and Wordplay: An Amateur’s (Playful) Thoughts. [URL](http://ceur-ws.org/Vol-3180/paper-143.pdf) - <a href="../BibTex/automatic-translation-of-wordplay-an-amateur-playful-thoughts.bib">BibTeX</a>
+  - Regattin Fabio, «&nbsp;Automatic Translation and Wordplay: An Amateur’s (Playful) Thoughts&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-143.pdf) - <a href="../BibTex/automatic-translation-of-wordplay-an-amateur-playful-thoughts.bib">BibTeX</a>
   
-  - Samofalova Yuliya, Catellani Andrea et Cougnon Louise-Amélie, Greenpeace Memes for Communicating Climate Change. [URL](http://ceur-ws.org/Vol-3180/paper-144.pdf) - <a href="../BibTex/greenpeace-memes.bib">BibTeX</a>
+  - Samofalova Yuliya, Catellani Andrea et Cougnon Louise-Amélie, «&nbsp;Greenpeace Memes for Communicating Climate Change&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-144.pdf) - <a href="../BibTex/greenpeace-memes.bib">BibTeX</a>
   
-  - Talec-Bernard Léa, How good can an automatic translation of Pokémon names be? [URL](http://ceur-ws.org/Vol-3180/paper-145.pdf) - <a href="../BibTex/automatic-translation-of-pokemon-names.bib">BibTeX</a>
+  - Talec-Bernard Léa, «&nbsp;How good can an automatic translation of Pokémon names be?&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022 [URL](http://ceur-ws.org/Vol-3180/paper-145.pdf) - <a href="../BibTex/automatic-translation-of-pokemon-names.bib">BibTeX</a>
   
   - Hempelmann Christian F. et Miller Tristan, «&nbsp;Puns: Taxonomy and phonology&nbsp;», <em>The Routledge handbook of language and humor</em>, édité par Salvatore Attardo, Routledge, 2017, <a href="https://dx.doi.org/10.4324/9781315731162-8">URL</a> - <a href="../BibTex/Puns_Taxonomy_and_phonology.bib">BibTeX</a>
   
