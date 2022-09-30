@@ -27,7 +27,7 @@ In International Conference of the Cross-Language Evaluation Forum for European 
 ```
 [Paper](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_27)
 
-[Dowload .BIB](./BibTex/joker-clef-2022.bib)
+[Dowload .BIB](../BibTex/joker-clef-2022.bib)
 
 <p>
 <em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001</em>
