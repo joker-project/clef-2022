@@ -8,7 +8,7 @@
 
 <h2 align="center">Publications related to the JOKER project</h2>
   
-  - Ermakova Liana, Miller Tristan, Regattin Fabio, Bosser Anne-Gwen, Borg Claudine, Mathurin Elise, Le Corre Gaëlle, Araujo Silvia, Hannachi Radia, Boccou Julien, Digue Albin, Demoy Aurianne et Jeanjean Benoît, «&nbsp;Overview of JOKER@CLEF 2022: Automatic Wordplay and Humour Translation Workshop&nbsp;», <em>Experimental IR Meets Multilingualityn Multimodality and Interaction</em>, [URL](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_27) - <a href="../BibTex/joker-clef-2022.bib">BibTeX</a>
+  - Ermakova Liana, Miller Tristan, Regattin Fabio, Bosser Anne-Gwen, Borg Claudine, Mathurin Elise, Le Corre Gaëlle, Araujo Silvia, Hannachi Radia, Boccou Julien, Digue Albin, Demoy Aurianne et Jeanjean Benoît, «&nbsp;Overview of JOKER@CLEF 2022: Automatic Wordplay and Humour Translation Workshop&nbsp;», <em>Experimental IR Meets Multilingualityn Multimodality and Interaction</em>, Springer Iternational Publishing, 2022. [URL](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_27) - <a href="../BibTex/joker-clef-2022.bib">BibTeX</a>
   
   - Ermakova Liana, Regattin Fabio, Miller Tristan, Bosser Anne-Gwenn, Araújo Silvia, Borg Claudine, Le Corre Gaëlle, Boccou Julien, Digue Albin, Damoy Aurianne, Campen Paul et Puchalski Orlane, Overview of the CLEF 2022 JOKER Task 1: Classify and Explain Instances of Wordplay. [URL](http://ceur-ws.org/Vol-3180/paper-126.pdf) - <a href="../BibTex/overview-clef-2022-task-1.bib">BibTeX</a>
   
