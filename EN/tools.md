@@ -12,7 +12,7 @@
 * **Multilingual T5 (mT5)**  is a large multilingual pretrained text-to-text transformer model developped by Google covering 101 languages. mT5 can be fine-tuned using the [SimpleT5 library](https://github.com/Shivanandroy/simpleT5/). [https://github.com/google-research/multilingual-t5](https://github.com/google-research/multilingual-t5)
 
 <p>
-<em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" with the Reference ANR-19-GURE-0001</em>
+<em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" integrated into France 2030, with the Reference ANR-19-GURE-0001.</em>
 </p>
 <p>
 <em>JokeR is supported by The Human Science Institute in Brittany (MSHB)</em>
@@ -20,7 +20,7 @@
 <div align="center">
   <a href="https://www.mshb.fr"><img src="../img/MSHB.jpg" height="120"></a>
   <a href="https://sea-eu.org/?lang=fr"><img src="../img/SEA-EU.png" height="120"></a>
-  <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="../img/Investissement avenir.jpeg" height="120"></a>
+  <a href="https://www.gouvernement.fr/le-programme-d-investissements-d-avenir"><img src="../img/Logotype France 2030.jpg" height="120"></a>
 </div>
 <br />
 <div align="center">
