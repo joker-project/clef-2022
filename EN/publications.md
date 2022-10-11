@@ -1,4 +1,4 @@
-# JokeR
+# JOKER
 <p align="center">
   <img src="../img/Joker.png" width="120" height="142">
 </p>
@@ -22,7 +22,7 @@
   
   - Bosser Anne-Gwenn, Ermakova Liana, Dupin de Saint-Cyr Florence, De Loor Pierre, Charpennay Victor, Pépin-Hermann Nicolas, Alcaraz Benoit, Autran Jean-Victor, Devillers Alexandre, Grosset Juliette, Hénard Aymeric et Marchal-Bornert Florian, «&nbsp;Poetic or Humorous Text Generation: Jam event at PFIA2022&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-131.pdf)
   
-  - Campen Paul et Digue Albin, «&nbsp;A history of classification and JokeR's reach&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-132.pdf) - <a href="../BibTex/a-history-of-classification.bib">BibTeX</a>
+  - Campen Paul et Digue Albin, «&nbsp;A history of classification and JOKER's reach&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-132.pdf) - <a href="../BibTex/a-history-of-classification.bib">BibTeX</a>
   
   - Damoy Aurianne, «&nbsp;Translation strategies: adaptation and equivalence — Joker contest&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-133.pdf) - <a href="../BibTex/translation-strategies-adaptation-and-equivalence.bib">BibTeX</a>
   
@@ -38,7 +38,7 @@
   
   - Glemarec Loïc, Bosser Anne-Gwenn, Boccou Julien et Ermakova Liana, «&nbsp;Humorous Wordplay Generation in French&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-139.pdf)
   
-  - Glemarec Loïc, «&nbsp;Use of SimpleT5 for the CLEF workshop JokeR: Automatic Pun and Humor Translation&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-140.pdf) - <a href="../BibTex/use-of-simplet5-for-clef-workshop.bib">BibTeX</a>
+  - Glemarec Loïc, «&nbsp;Use of SimpleT5 for the CLEF workshop JOKER: Automatic Pun and Humor Translation&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-140.pdf) - <a href="../BibTex/use-of-simplet5-for-clef-workshop.bib">BibTeX</a>
   
   - Gutiérrez Galeano Leopoldo Jesús, «&nbsp;LJGG @ CLEF JOKER Task 3: An improved solution joining with dataset from task 1&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-141.pdf) - <a href="../BibTex/ljgg-clef-joker-task-3.bib">BibTeX</a>
   
@@ -95,7 +95,7 @@
 <em>This project has received a government grant managed by the National Research Agency under the program "Investissements d'avenir" integrated into France 2030, with the Reference ANR-19-GURE-0001.</em>
 </p>
 <p>
-<em>JokeR is supported by The Human Science Institute in Brittany (MSHB)</em>
+<em>JOKER is supported by The Human Science Institute in Brittany (MSHB)</em>
 </p>
 <div align="center">
   <a href="https://www.mshb.fr"><img src="../img/MSHB.jpg" height="120"></a>
