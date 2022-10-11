@@ -1,4 +1,4 @@
-# JokeR
+# JOKER
 <p align="center">
   <img src="../img/Joker.png" width="120" height="142">
 </p>
@@ -10,12 +10,12 @@ Accueil | [Projet](projet) | [Publications](publications) | [Partenaires](parten
 
 <h3>Résumé</h3>
 
-La communication interculturelle repose en grande partie sur la traduction. L'humour reste de loin l'un de ses aspects les plus difficiles. Les jeux de mots sont une source d'humour courante et sont utilisés par les romanciers et les poètes, ainsi que dans les titres et la publicité pour leur capacité à attirer l'attention ou leur caractère ludique et subversif. La traduction de l'humour et des jeux de mots est donc très demandée. Cependant la question de l'(in)traductibilité de l'humour est soulevée car elle exige la compréhension des références culturelles implicites et/ou du double sens. La traduction moderne est fortement assistée par des outils technologiques, mais les travaux sur l'automatisation de la traduction de l'humour et des jeux de mots sont peu nombreux ; il n'existe aucun corpus parallèle de jeux de mots. Le projet JokeR aborde la question de l'identité européenne à travers l'étude de l'humour dans une perspective interculturelle. L'objectif principal du projet JokeR est d'étudier les stratégies de localisation de l'humour et des jeux de mots et de créer un corpus parallèle multilingue, annoté selon ces stratégies, ouvert et disponible librement.
+La communication interculturelle repose en grande partie sur la traduction. L'humour reste de loin l'un de ses aspects les plus difficiles. Les jeux de mots sont une source d'humour courante et sont utilisés par les romanciers et les poètes, ainsi que dans les titres et la publicité pour leur capacité à attirer l'attention ou leur caractère ludique et subversif. La traduction de l'humour et des jeux de mots est donc très demandée. Cependant la question de l'(in)traductibilité de l'humour est soulevée car elle exige la compréhension des références culturelles implicites et/ou du double sens. La traduction moderne est fortement assistée par des outils technologiques, mais les travaux sur l'automatisation de la traduction de l'humour et des jeux de mots sont peu nombreux ; il n'existe aucun corpus parallèle de jeux de mots. Le projet JOKER aborde la question de l'identité européenne à travers l'étude de l'humour dans une perspective interculturelle. L'objectif principal du projet JOKER est d'étudier les stratégies de localisation de l'humour et des jeux de mots et de créer un corpus parallèle multilingue, annoté selon ces stratégies, ouvert et disponible librement.
 
 
 <a href="https://ai-days.bzh/" target="_blank">Lien vers le site de l'évènement AI DAYS</a>
 <br />
-<a href="./JOKER Brest IA.pdf" target="_blank">Lien vers un résumé du projet JokeR</a>
+<a href="./JOKER Brest IA.pdf" target="_blank">Lien vers un résumé du projet JOKER</a>
 
 
 ## Référence
@@ -37,7 +37,7 @@ https://doi.org/10.1007/978-3-030-99739-7_45
 <em>Ce projet a bénéficié d'une aide de l'état gérée par l'Agence Nationale de la Recherche au titre du programme d’investissements d’avenir intégré à France 2030, portant la Référence ANR-19-GURE-0001.</em>
 </p>
 <p>
-<em>JokeR est labellisé par la Maison des Sciences de l'Homme en Bretagne</em>
+<em>JOKER est labellisé par la Maison des Sciences de l'Homme en Bretagne</em>
 </p>
 <div align="center">
   <a href="https://www.mshb.fr"><img src="../img/MSHB.jpg" height="120"></a>
