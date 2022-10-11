@@ -1,4 +1,4 @@
-# JokeR
+# JOKER
 <p align="center">
   <img src="../img/Joker.png" width="120" height="142">
 </p>
@@ -12,7 +12,7 @@
 <em>Ce projet a bénéficié d'une aide de l'état gérée par l'Agence Nationale de la Recherche au titre du programme d’investissements d’avenir intégré à France 2030, portant la Référence ANR-19-GURE-0001.</em>
 </p>
 <p>
-<em>JokeR est labellisé par la Maison des Sciences de l'Homme en Bretagne</em>
+<em>JOKER est labellisé par la Maison des Sciences de l'Homme en Bretagne</em>
 </p>
 <div align="center">
   <a href="https://www.mshb.fr"><img src="../img/MSHB.jpg" height="120"></a>
