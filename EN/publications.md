@@ -44,6 +44,8 @@
   
   - Palma Preciado Victor Manuel, Sidorov Grigori et Palma Preciado Carolina, «&nbsp;Assessing Wordplay-Pun classification from JOKER dataset with pretrained BERT humorous models&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-142.pdf)
   
+  - Ermakova, L., Miller, T., Puchalski, O., Regattin, F., Mathurin, É., Araújo, S., Bosser, A.-G., Borg, C., Bokiniec, M., Corre, G. L., Jeanjean, B., Hannachi, R.,Mallia, Ġ., Matas, G., & Saki, M. (2022). «&nbsp;CLEF Workshop JOKER: Automatic Wordplay and Humour Translation.&nbsp;». In M. Hagen, S. Verberne, C. Macdonald, C. Seifert, K. Balog, K. Nørvåg, & V. Setty (Eds.), Advances in Information Retrieval (Vol. 13186, pp. 355–363). Springer International Publishing. [URL](https://doi.org/10.1007/978-3-030-99739-7_45) - [BibTeX](./BibTex/joker_ecir_2022.bib)
+  
   - Regattin Fabio, «&nbsp;Automatic Translation and Wordplay: An Amateur’s (Playful) Thoughts&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-143.pdf) - <a href="../BibTex/automatic-translation-of-wordplay-an-amateur-playful-thoughts.bib">BibTeX</a>
   
   - Samofalova Yuliya, Catellani Andrea et Cougnon Louise-Amélie, «&nbsp;Greenpeace Memes for Communicating Climate Change&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-144.pdf) - <a href="../BibTex/greenpeace-memes.bib">BibTeX</a>
