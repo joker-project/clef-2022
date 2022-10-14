@@ -16,7 +16,7 @@
   
   - Ermakova Liana, Regattin Fabio, Miller Tristan, Bosser Anne-Gwenn, Borg Claudine, Jeanjean Benoît, Mathurin Élise, Le Corre Gaëlle, Hannachi Radia, Araújo Silvia, Boccou Julien, Digue Albin et Damoy Aurianne, «&nbsp;Overview of the CLEF 2022 JOKER Task 3: Pun Translation from English into French&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-128.pdf) - <a href="../BibTex/overview-clef-2022-task-3.bib">BibTeX</a>
   
-  - Arroubat Hakima, «&nbsp;Wordplay location and interpretation with deep learning methods&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-129.pdf)
+  - Arroubat Hakima, «&nbsp;Wordplay location and interpretation with deep learning methods&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-129.pdf) - <a href="../BibTex/Wordplay location and interpretation with deep learning methods.bib">BibTeX</a>
   
   - Boccou Julien, «&nbsp;Using a ‘punning schemes’ as a template for translating wordplay&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-130.pdf) - <a href="../BibTex/using-a-punning-scheme-as-a-template.bib">BibTeX</a>
   
