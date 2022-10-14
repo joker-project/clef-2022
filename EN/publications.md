@@ -32,7 +32,7 @@
   
   - Dhanani Farhan Rafi, Muhammad et Tahir Muhammad Atif, «&nbsp;FAST-MT Participation for the JOKER CLEF-2022 Automatic Pun and Humour Translation Tasks&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-136.pdf) - <a href="../BibTex/fast-mt-clef-2022.bib">BibTeX</a>
   
-  - Digue Albin et Campen Paul, «&nbsp;Automatic translation of wordplay&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-137.pdf)
+  - Digue Albin et Campen Paul, «&nbsp;Automatic translation of wordplay&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-137.pdf) - <a href="../BibTex/Automatic translation of wordplay.bib">BibTeX</a>
   
   - Epimakhova Aygyul, «&nbsp;Using machine learning to classify and interpret wordplay&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-138.pdf) - <a href="../BibTex/using-machine-learning.bib">BibTeX</a>
   
