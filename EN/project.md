@@ -4,7 +4,7 @@
   </p>
 
 [Home](index) | CLEF | [CLEF program](program)| [Publications](publications) | [Partners](partners) | [Contest](contest) | [Contact Us](contact) | [Tools](tools) | [CLEF-2023](../../clef-2023)
-  <h1 align="center">CLEF Workshop:</h1>
+  <h1 align="center">CLEF 2022 Workshop:</h1>
   <h2 align="center">Automatic Pun and Humour Translation</h2>
 
 ## Call for Participation 
