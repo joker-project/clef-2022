@@ -36,7 +36,7 @@
   
   - Epimakhova Aygyul, «&nbsp;Using machine learning to classify and interpret wordplay&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-138.pdf) - <a href="../BibTex/using-machine-learning.bib">BibTeX</a>
   
-  - Glemarec Loïc, Bosser Anne-Gwenn, Boccou Julien et Ermakova Liana, «&nbsp;Humorous Wordplay Generation in French&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-139.pdf)
+  - Glemarec Loïc, Bosser Anne-Gwenn, Boccou Julien et Ermakova Liana, «&nbsp;Humorous Wordplay Generation in French&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-139.pdf) - <a href="../BibTex/Humorous Wordplay Generation in French.bib">BibTeX</a>
   
   - Glemarec Loïc, «&nbsp;Use of SimpleT5 for the CLEF workshop JOKER: Automatic Pun and Humor Translation&nbsp;», <em>Proceedings of the Working Notes of CLEF 2022: Conference and Labs of the Evaluation Forum</em>, CEUR Workshop Proceedings, 2022. [URL](http://ceur-ws.org/Vol-3180/paper-140.pdf) - <a href="../BibTex/use-of-simplet5-for-clef-workshop.bib">BibTeX</a>
   
